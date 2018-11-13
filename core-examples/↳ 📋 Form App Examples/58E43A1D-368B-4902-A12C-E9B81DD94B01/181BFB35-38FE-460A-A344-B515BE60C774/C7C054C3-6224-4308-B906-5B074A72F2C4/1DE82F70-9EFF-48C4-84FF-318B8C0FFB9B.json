@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1DE82F70-9EFF-48C4-84FF-318B8C0FFB9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8228D397-5D15-4C64-9082-199CACFBD7B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C286528-9693-46EC-BE43-283809C75DFA",
+    "height": 20,
+    "width": 231,
+    "x": 0,
+    "y": 86
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Alert/inline-validation/Info-link",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA75BCFB-8BFA-4D50-BD30-1351A72397C8",
+      "overrideName": "9D5B7005-066A-47DF-8DF7-4B853C624841_stringValue",
+      "value": "What is an at-fault incident?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8360BAF-1C98-4975-8264-12705D2A3979",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3C8CF4E5-EBDD-4881-9BB9-ACDDC9CEF789",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "alertInlineInfoLink",
+        "variableIDSketchID": "0D6471E9-BB3B-4C50-AA88-E4FF5C38B250"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

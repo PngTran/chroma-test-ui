@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C66C8AA0-4589-449F-BBDD-EED4BF08DD75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F33D2B8C-6D16-41AA-9571-9A78C7DA774B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6EE9CEA8-0C60-4194-8A26-52C8A496FD8C",
+    "height": 1024,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Browser/Desktop",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48250FE0-743B-450C-B0C2-F93C0E00F5B0",
+      "overrideName": "491599CF-E0ED-43E3-B867-571CBF8A3D31_stringValue",
+      "value": "Typography"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5D0586C-A3BF-4D30-8AFF-AE714EA39C9E",
+      "overrideName": "EC5FD04B-073D-490B-873C-8FAA85F62595_stringValue",
+      "value": "Typography is big part of your designs. Brand font is used predominantly in headings and generic fonts is for body copy to ensure legibility"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F20C40B-CB13-4B4E-A601-117436B22A3C",
+      "overrideName": "773B2CF5-0978-40A9-81F8-5A91DF07CECA_stringValue",
+      "value": "Typography"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D9630AFC-4DCA-4F71-B12A-8DC6057F1345",
+      "overrideName": "11DD14BB-D6C8-4870-B4F6-DBC62F8FA05C_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7746359E-B5A1-4900-B0BA-36FC3EA7E940",
+      "overrideName": "E5E26285-9794-4E82-80EF-EDCF271F7C0E_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C27E5CED-0820-40E9-8AE3-32C21B41C9E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D27C3EE3-BCF8-4796-A60F-C9B427FA5313",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

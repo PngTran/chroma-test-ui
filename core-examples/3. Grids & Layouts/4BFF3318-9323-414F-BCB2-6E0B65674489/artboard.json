@@ -34,10 +34,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6AD9545F-CC4C-4FEB-BF84-F6E93D7E8093",
-    "height": 1267,
+    "height": 1024,
     "width": 768,
     "x": -1270,
-    "y": -513
+    "y": 1084
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,7 +47,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -64,15 +64,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "027A1D1A-4268-440F-BD16-7B0524F444B1"
-    },
-    {
-      "class": "group",
-      "id": "4C1D710F-FE2F-457B-9694-0461CD0078A6"
+      "class": "symbolInstance",
+      "id": "6B0DC520-6A39-4622-891D-FAAE76AEE84E"
     }
   ],
   "layout": {
@@ -90,8 +86,15 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 720
   },
-  "name": "Chroma_Responsive Grid_768 M",
-  "nameIsFixed": false,
+  "name": "Grid_768 M",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "iPad",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

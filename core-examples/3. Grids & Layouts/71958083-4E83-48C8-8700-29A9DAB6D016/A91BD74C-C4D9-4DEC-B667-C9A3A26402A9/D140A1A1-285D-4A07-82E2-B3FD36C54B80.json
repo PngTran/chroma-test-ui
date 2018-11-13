@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D140A1A1-285D-4A07-82E2-B3FD36C54B80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98A1342B-BF17-4CD5-BB4E-4B9856E7A534",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2BDEB982-4B74-453F-8C68-5C2D9471C123",
+    "height": 50,
+    "width": 333,
+    "x": 0,
+    "y": 373
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Lists/Detail/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "501AACB0-4E45-438D-A10F-8ED5FE652DBA",
+      "overrideName": "01ADC331-A0AF-48C8-99B9-2345D9D9B2F2_stringValue",
+      "value": "Offset"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A232AE99-DA57-486C-98C1-64BEB42B4FAB",
+      "overrideName": "D9B110FF-3431-45A5-9B7B-8C3A72496BB9_stringValue",
+      "value": "0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03229A3D-1EC0-45E2-93F6-DA9C5435711F",
+      "overrideName": "4D15C026-A365-42BE-ACB3-DEE5C2037DBD_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2878FE4C-4694-42BE-BFA5-AD794038241A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "293A07D6-4B74-4F8F-9B1A-105BC6588DA4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -34,13 +34,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "611ADC9A-D726-4BDC-8C9C-DC36EF067023",
-    "height": 1267,
+    "height": 667,
     "width": 375,
-    "x": -2295,
-    "y": -513
+    "x": -2321,
+    "y": 1084
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,15 +59,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "1EA80345-B4B6-4164-8B1F-9DD58DC33466"
     },
     {
-      "class": "group",
-      "id": "69C67E45-F15B-4BCF-9327-0E89B48FAACA"
+      "class": "symbolInstance",
+      "id": "355C2A2D-07B3-44D1-A1E8-3FC6FEA52762"
     }
   ],
   "layout": {
@@ -85,8 +85,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 375
   },
-  "name": "Chroma_Responsive Grid_375 S",
-  "nameIsFixed": false,
+  "name": "Grid_375 S",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,

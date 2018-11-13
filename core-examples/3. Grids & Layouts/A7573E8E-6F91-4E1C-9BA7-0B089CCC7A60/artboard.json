@@ -36,8 +36,8 @@
     "do_objectID": "F2EDFC00-EC45-4733-B71A-05E6D8C0E560",
     "height": 1030,
     "width": 768,
-    "x": -1237,
-    "y": 1200
+    "x": -1270,
+    "y": -427
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,15 +47,13 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "do_objectID": "4BC8C080-1C5B-42F1-AA5D-E62F03871FDF",
     "guides": [
-      48,
-      721
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -66,35 +64,35 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
       "id": "3E79CAFB-C3F2-42D0-9A88-3EEE06A49921"
     },
     {
-      "class": "group",
-      "id": "6799A324-A65D-4681-BF54-126C81441CFB"
+      "class": "symbolInstance",
+      "id": "573D70B2-C838-41D4-B01B-F42CA6459B57"
     },
     {
-      "class": "group",
-      "id": "84E5F045-9990-4FD0-A1C7-0C25C628505F"
+      "class": "symbolInstance",
+      "id": "4ED07AA8-F83B-4F6A-A17D-87EED98CA494"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 26.66666666666667,
+    "columnWidth": 32,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
     "gutterWidth": 32,
     "guttersOutside": true,
-    "horizontalOffset": 32,
+    "horizontalOffset": 0,
     "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
-    "totalWidth": 704
+    "totalWidth": 768
   },
   "name": "Chroma Form Template_768 M Copy",
   "nameIsFixed": false,

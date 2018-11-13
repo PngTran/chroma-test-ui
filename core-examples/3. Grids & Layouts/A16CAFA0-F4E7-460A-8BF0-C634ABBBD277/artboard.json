@@ -34,13 +34,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "98F4CC2E-19F4-4055-9F7F-705E9895156C",
-    "height": 1024,
+    "height": 568,
     "width": 320,
-    "x": -2665,
-    "y": -513
+    "x": -2691,
+    "y": 1084
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -64,8 +64,8 @@
       "id": "122B6944-E0B4-4A99-93EC-D8E7D00CD0D2"
     },
     {
-      "class": "group",
-      "id": "1247A392-AA3D-4885-9BAE-0DDF0A39A6A2"
+      "class": "symbolInstance",
+      "id": "70F705E4-5119-40B6-93C0-710A576122B8"
     }
   ],
   "layout": {
@@ -83,12 +83,12 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "Chroma_Responsive Grid_320 XS",
-  "nameIsFixed": false,
+  "name": "Grid_320 XS",
+  "nameIsFixed": true,
   "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Mobile",
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
     "offersLandscapeVariant": 1,
     "width": 320
   },

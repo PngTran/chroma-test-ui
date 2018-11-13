@@ -34,13 +34,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "59BFCC13-7163-4A29-9EED-718C3807281F",
-    "height": 1268,
-    "width": 992,
+    "height": 768,
+    "width": 1024,
     "x": -452,
-    "y": -513
+    "y": 1084
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,15 +57,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "3C5E32BC-4BA4-4644-8B7D-191082C11E6A"
-    },
-    {
-      "class": "group",
-      "id": "C7CDCC02-9B82-4630-A90B-8AD4F3359D26"
+      "class": "symbolInstance",
+      "id": "C93ACA4A-1BEE-49E3-8FB7-0BE4F1E74656"
     }
   ],
   "layout": {
@@ -83,8 +79,15 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "Chroma_Responsive Grid_992 L",
+  "name": "Grid_992 L",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Nexus 9",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
