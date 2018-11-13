@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BB09A06A-F6B1-4A98-833C-A7C8C8280028",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "172FC3FA-6DE1-4EEC-B70B-4CE87500AA0E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A8E799B2-B264-459A-91B9-BD4CC555A5BB",
+    "height": 48,
+    "width": 81,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Basic/Primary-outline",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A1D1934-7276-44D2-B877-A148609BFB35",
+      "overrideName": "11967554-739C-4186-9C5F-5AB9D46852F7/E412C567-B1A8-4B6C-9649-3FDE9ED38811/877A8627-46A2-4610-8F96-035200718E4D_stringValue",
+      "value": "Back"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB80A2F6-9E64-429A-9082-EBC58237FD33",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F9488B0-1D18-4987-AC96-4F291C7FABED",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "buttonBasicPrimaryoutline",
+        "variableIDSketchID": "A7AE2208-8C2F-410F-8B09-6C4341B19DBB"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

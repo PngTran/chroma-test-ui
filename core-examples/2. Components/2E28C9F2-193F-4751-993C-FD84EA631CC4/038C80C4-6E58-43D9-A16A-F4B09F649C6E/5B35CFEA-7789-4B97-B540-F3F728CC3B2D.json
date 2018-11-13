@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B35CFEA-7789-4B97-B540-F3F728CC3B2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DADB6EC8-D144-4F98-8805-AE7EA5CE9E6C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05FD13AF-F52B-4034-89E0-55967F726F01",
+    "height": 48,
+    "width": 48,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form group/.input-group/text/prefix",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "004074A4-0E4C-457E-8A7F-FE09053CD232",
+      "overrideName": "50BF96AB-B0BB-4F77-966E-D4054D60DA38/A2B0164D-C872-437D-81D3-02F0166FB2DC_stringValue",
+      "value": "Send"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F4C005D-9795-44B2-882B-9C86390B648B",
+      "overrideName": "62891E03-B255-4AAE-9697-2190FC2B78FB_stringValue",
+      "value": " $ "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "82BA90C9-68C2-4BCC-8628-666A23629A6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4030BDA4-FD4F-4491-84BE-2BC5C83EB3E3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

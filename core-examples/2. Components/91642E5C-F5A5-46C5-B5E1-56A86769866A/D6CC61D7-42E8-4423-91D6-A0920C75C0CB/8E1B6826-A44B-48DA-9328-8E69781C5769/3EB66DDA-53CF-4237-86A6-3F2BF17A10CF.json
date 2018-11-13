@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3EB66DDA-53CF-4237-86A6-3F2BF17A10CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1B30609-4905-4AF6-A64B-A7B6F9CE5CC2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B319CF5B-E1C5-4F23-B1AB-50DBEF6246F7",
+    "height": 463,
+    "width": 271,
+    "x": 15,
+    "y": 17
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "illustration/Infographic",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "104DD986-1F7A-4F9F-8CF1-8DBFFBE0E6C1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.32154340836013,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "AC799535-2FD4-4C1A-B84A-606AA2E4CA32",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E10EBBFE-63D5-4547-B8CC-028E41ED0F7C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

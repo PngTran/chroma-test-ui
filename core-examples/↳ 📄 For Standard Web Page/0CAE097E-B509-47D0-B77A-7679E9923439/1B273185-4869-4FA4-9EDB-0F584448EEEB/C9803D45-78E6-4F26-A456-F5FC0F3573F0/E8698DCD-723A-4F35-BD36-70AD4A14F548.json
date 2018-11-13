@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E8698DCD-723A-4F35-BD36-70AD4A14F548",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E9C1651-9FE5-4ACD-BF7E-F19B2DDC772D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CF53BD5-C2A6-4A85-A0C9-720D510A5A54",
+    "height": 48,
+    "width": 81,
+    "x": 97,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Basic/Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A44EB46-A5F0-4556-968C-A63ACE7674F1",
+      "overrideName": "54FB3C8B-5C87-4217-9E07-A491D7B48930/E412C567-B1A8-4B6C-9649-3FDE9ED38811/127B1806-5D30-46F8-880C-1548F6AA664A_stringValue",
+      "value": "Next"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56CE42F1-D8C5-47EA-9DFA-F77F6AD51E09",
+      "overrideName": "54FB3C8B-5C87-4217-9E07-A491D7B48930/E412C567-B1A8-4B6C-9649-3FDE9ED38811/0D52CABC-401F-486C-B8EE-9E552A01B290_stringValue",
+      "value": "Primary"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FABCAD2D-0D66-48BA-8E12-0BC75C3B53C2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC614087-52CC-43A8-A629-E518E6864FD8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

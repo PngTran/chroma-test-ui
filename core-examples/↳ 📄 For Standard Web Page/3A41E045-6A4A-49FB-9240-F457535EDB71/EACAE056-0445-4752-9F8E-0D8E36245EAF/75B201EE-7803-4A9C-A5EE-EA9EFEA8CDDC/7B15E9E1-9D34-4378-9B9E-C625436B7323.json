@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7B15E9E1-9D34-4378-9B9E-C625436B7323",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F3C07AA-8255-427F-B842-F59EF20BC9F5",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4723DC7-3366-4FBA-BF64-222A0D07BE74",
+    "height": 48,
+    "width": 81,
+    "x": 97,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Basic/Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A44EB46-A5F0-4556-968C-A63ACE7674F1",
+      "overrideName": "54FB3C8B-5C87-4217-9E07-A491D7B48930/E412C567-B1A8-4B6C-9649-3FDE9ED38811/127B1806-5D30-46F8-880C-1548F6AA664A_stringValue",
+      "value": "Next"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56CE42F1-D8C5-47EA-9DFA-F77F6AD51E09",
+      "overrideName": "54FB3C8B-5C87-4217-9E07-A491D7B48930/E412C567-B1A8-4B6C-9649-3FDE9ED38811/0D52CABC-401F-486C-B8EE-9E552A01B290_stringValue",
+      "value": "Primary"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3ECD471A-9D86-4BD8-BE93-E6117F268195",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC614087-52CC-43A8-A629-E518E6864FD8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "buttonBasicPrimary",
+        "variableIDSketchID": "06B38411-5728-4AB3-A8A5-AB2F9F85153D"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

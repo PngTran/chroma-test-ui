@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DACA3D2C-178F-4096-85F6-B8EBC52A5FE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B29DCC6C-748E-4725-9C52-9FA0216C809E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC99F7ED-77FA-4600-97F9-52BB14C6B7BD",
+    "height": 1024,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Browser/Desktop",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5FD21F4-8371-4998-B153-453FD535F33B",
+      "overrideName": "491599CF-E0ED-43E3-B867-571CBF8A3D31_stringValue",
+      "value": "Card"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2125BE4E-215E-4B4E-91E7-79153C83DB9F",
+      "overrideName": "EC5FD04B-073D-490B-873C-8FAA85F62595_stringValue",
+      "value": "A card is a flexible content container with no set width that can house a wide variety of content. You can easily customise the look of a card by applying borders or background classes directly to the component."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7AB1DC0F-1A25-4493-8625-46EE80425042",
+      "overrideName": "773B2CF5-0978-40A9-81F8-5A91DF07CECA_stringValue",
+      "value": "Cards"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4F08C81-9814-415B-9566-53034FAC7785",
+      "overrideName": "11DD14BB-D6C8-4870-B4F6-DBC62F8FA05C_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EDD5FCA4-E89E-4C3B-8E31-4FE16C34BD1F",
+      "overrideName": "E5E26285-9794-4E82-80EF-EDCF271F7C0E_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "15B76612-8A05-4BBD-9966-5E2CBECBC032",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D27C3EE3-BCF8-4796-A60F-C9B427FA5313",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

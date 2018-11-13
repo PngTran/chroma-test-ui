@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2378D0D8-D84A-420C-9C98-6FDEB74ABE9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1FC2D70-5B4F-4E38-8D55-B4F160ED93D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7384171A-14C9-45D0-9F1F-A5DA5178FB94",
+    "height": 24,
+    "width": 180,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Lists/Icon/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90144C01-7628-4CEB-A977-9B3AE585FE72",
+      "overrideName": "A1E79628-EFD0-4D67-8908-585000393372_stringValue",
+      "value": "Icon list item 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF369BE0-9C9C-41F2-BF6E-DCFCD58A0545",
+      "overrideName": "B78FD4D6-26CC-4CDE-B914-CAD00B30BE88_symbolID",
+      "value": "8640C27D-D2EB-4115-9D54-7CAD338C3716"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3A21624-87AA-481F-82B7-B2FC2BA84CAF",
+      "overrideName": "B78FD4D6-26CC-4CDE-B914-CAD00B30BE88/98FBF745-05A1-41E9-A878-79365B8F7D6D_symbolID",
+      "value": "29F07E37-EB7B-4E92-83E0-A78585B23C06"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0241A14-6E94-4E05-A101-973D53879FE0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B15A212D-77BD-4793-8E71-D1D357A8C5AE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

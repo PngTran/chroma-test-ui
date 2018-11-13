@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8BBB1A90-1D38-4CBE-8CDA-DFD4AF6B1DFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "299B428F-FF65-4D64-95F8-4A1B6AFB552E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "04A8257B-F2CE-452F-BC3E-093FD7F7656E",
+    "height": 64,
+    "width": 327,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Left hand Navigation/list-item/lvl1/selected",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "73C19EC6-6E03-482E-80B4-E0E7447FFABD",
+      "overrideName": "06214CD9-5CBB-4DFA-A694-90328DE27157/3A17ED00-8420-4968-9B69-50AB356D85D2_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F8B7C73-7E2B-4BEE-9AA8-9D3676EAC6B2",
+      "overrideName": "DDB9E409-8FFE-4C09-82A8-174E76C5B5E6/7573FA73-6953-475B-9AE7-68E9F10A945D_stringValue",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B8F2BDDC-9132-46E8-927B-C95ED4BDFCE1",
+      "overrideName": "0B54DDED-9B1F-42F1-BA43-BB2A15F872E5_stringValue",
+      "value": "Home"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E3DD2E3-1E3A-4E08-945C-B100A9B5B0DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "586877E3-7D32-486C-B728-9A331323A858",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

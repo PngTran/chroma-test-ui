@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F3578B0-5416-4F98-BBAB-24AD320363C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "33F28C96-6B52-4EDD-968E-48E00F31B0E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62F6E6D2-586C-4D5E-9411-7355E1EAAE0E",
+    "height": 50,
+    "width": 424,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Accordion/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5D82E50E-216A-4A0A-9BB1-75BB5BE86888/4DD71324-67F5-4DC9-B109-14C16E690259_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5D82E50E-216A-4A0A-9BB1-75BB5BE86888/92C264A9-DBD7-4364-A2F1-2C68944E59F5_symbolID",
+      "value": "862D91ED-756D-41D9-9357-D426F6EF5D43"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5D82E50E-216A-4A0A-9BB1-75BB5BE86888/68CF60E8-27F7-4D2D-B7CB-47FFE534DE08_stringValue",
+      "value": "Accordion list item 1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5A421735-528C-4BD2-8438-35D8866D4B3A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "99FD6E02-9408-45BD-97A3-FAFE997B2FEA",
+      "overrideName": "DBBB3CED-52B2-4D69-8209-BE048CB0C8DD_symbolID",
+      "value": "40A3A049-20A4-4840-AE2D-AD227E32E65F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "89D9C8C5-5BBE-4657-831C-DE795FCF6328",
+      "overrideName": "C71B57BA-B18C-4676-A04C-2F04963637E5_stringValue",
+      "value": "Car details"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "581F0565-FB18-45CB-9CD7-69323D7FC5E5",
+      "overrideName": "396749F6-3623-4605-AAF8-266391682ACB_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "101610E1-225B-4409-BA31-50ECB5B05FB2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CABE85CC-5F0C-42C4-B009-3B87D5B57875",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "688C1B74-7FE2-4214-955F-07AE2A2573A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6ED76E1A-3B46-41F9-9142-4B4FE532FD11",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "546EA0C5-22D2-451F-87A5-F4141C8B5C9D",
+    "height": 580,
+    "width": 362,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Modal - basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E47A7AEE-B057-40C9-A421-2D22F8FDD4DC",
+      "overrideName": "F1333232-370F-4B3C-B076-DE7DBC60FB78_stringValue",
+      "value": "There are a number of factors we take into account when determining your premium. We calculate your premium by combining:"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF27062A-9CF5-42E7-8140-B1F3AE4E88EF",
+      "overrideName": "C2B510B5-5F51-4F42-B16A-94189DF2BC63_stringValue",
+      "value": "How is my premium calculated roughly?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8412C6F6-5DEB-4F27-A8B5-141F0D64046C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9DC8D2E5-B85D-4707-A5C9-392A853737B0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

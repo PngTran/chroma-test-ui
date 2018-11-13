@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3FA9991D-3479-4450-A6EA-415E9606EFF2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC1B3FD3-DF5F-4F44-B0A9-614612AC8E89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31EFE711-5975-4400-9AF2-1C936244819E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27E4E11A-A6D4-44FB-810A-AB9597A63094",
+    "height": 1024,
+    "width": 375,
+    "x": 4879,
+    "y": 2415
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B27EE25B-08DB-448F-A5F2-7B7B959C59EE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3ABBCDC9-270A-4698-9560-54AAF751D988"
+    },
+    {
+      "class": "group",
+      "id": "83B2CBA1-3B76-4959-BCF3-439FB3182468"
+    },
+    {
+      "class": "group",
+      "id": "D04E00B3-2E5F-4612-B574-14C3B0D2BAF3"
+    },
+    {
+      "class": "group",
+      "id": "9C347FC6-3289-4CD5-A569-A00F87A86140"
+    },
+    {
+      "class": "group",
+      "id": "772FF477-5A4A-48C1-BF23-4B814DE946D7"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65.66666666666667,
+    "do_objectID": "04054030-22F5-423A-B5B1-CD97C75FF2E3",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 32,
+    "gutterWidth": 32,
+    "guttersOutside": false,
+    "horizontalOffset": 300,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 3,
+    "totalWidth": 1140
+  },
+  "name": "📱RADIO",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA1FABAC-464D-47C2-9418-F20185A4D5FC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D365D05E-149B-49A6-95F2-FCFA261C61BE",
+    "guides": [
+    ]
+  }
+}

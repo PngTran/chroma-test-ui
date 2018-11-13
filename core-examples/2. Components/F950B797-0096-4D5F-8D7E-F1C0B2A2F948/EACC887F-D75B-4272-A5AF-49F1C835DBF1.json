@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EACC887F-D75B-4272-A5AF-49F1C835DBF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54CE79D3-8E14-495C-89A2-7AAFEA729075",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4C9DFF0-367E-4802-92F2-FA1324908711",
+    "height": 24,
+    "width": 113,
+    "x": 68,
+    "y": 257
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "z.⛔️/Progress Bar/Desktop/Completed",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0FD7658E-9E16-49EF-8B22-76FA62B6BBA8",
+      "overrideName": "ECB8505C-B06B-46FD-85F9-5419D51EB7D1_stringValue",
+      "value": "Completed"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3DAA4687-8325-4EC6-BD2D-A58835A2493E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2C561477-9F47-44AF-8D7E-370D63441E36",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

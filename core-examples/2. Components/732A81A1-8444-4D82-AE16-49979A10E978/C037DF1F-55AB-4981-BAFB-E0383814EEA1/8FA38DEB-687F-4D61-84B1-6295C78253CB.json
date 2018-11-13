@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8FA38DEB-687F-4D61-84B1-6295C78253CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "232B6817-6A62-4053-93A8-16EFC887C3A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90E3B4C4-A8F5-4E3A-8550-44C65A3C8591",
+    "height": 80,
+    "width": 253,
+    "x": 0,
+    "y": 192
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form group/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29B6BDD2-BC41-4CDD-9A10-5CFCA77B3915",
+      "overrideName": "2E31709E-23A1-4616-9C55-DF71BFC26E2A_symbolID",
+      "value": "B732950D-3D14-40B0-B911-CBB737F93E78"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "951ADAF7-27A3-4E19-A9A4-04B9E57726D1",
+      "overrideName": "2E31709E-23A1-4616-9C55-DF71BFC26E2A/10A2066D-300C-4DD3-BAE8-4D615346000D_stringValue",
+      "value": "invalid input"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0E53688-6637-4666-A290-85C769C6C896",
+      "overrideName": "F6311319-AC81-42A3-98F9-1FB9FCC2130E_stringValue",
+      "value": "Invalid input"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "882F1777-B2E7-418A-AC7C-35348FF402DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "88E8C340-91D6-4CF3-A9DC-D84A5480E153",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

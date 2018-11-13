@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F08D38BD-62D2-4011-BCE3-EB0E37776667",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63485CF0-0A74-4485-8AFC-912816D3A5AC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C2021EFC-0249-4C40-B26C-A4406F3AEA45",
+    "height": 466,
+    "width": 424,
+    "x": 886,
+    "y": 292
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "06BD33EE-AD5B-422E-8BCC-38598A4F0964"
+    },
+    {
+      "class": "text",
+      "id": "DAB3BB67-93E2-4883-B08E-3E724B669110"
+    },
+    {
+      "class": "text",
+      "id": "9FB790EA-E20E-4D83-A521-4DF389D82156"
+    },
+    {
+      "class": "text",
+      "id": "BB3DE5FB-9CDE-4792-8634-BC031F46ADC0"
+    },
+    {
+      "class": "text",
+      "id": "420FB846-8F7F-4CF6-BA2C-15A79AE22FAA"
+    },
+    {
+      "class": "text",
+      "id": "05B0674C-1D50-475C-96C3-073A2226D78C"
+    },
+    {
+      "class": "text",
+      "id": "8DA3CE50-D201-419E-B32D-B66A314DDEC2"
+    },
+    {
+      "class": "text",
+      "id": "85BF4BCB-A6E0-4444-BDE8-1C98E3239375"
+    },
+    {
+      "class": "group",
+      "id": "7B7292CA-7500-4AC9-B308-6EE276DD1254"
+    }
+  ],
+  "name": "Secondary",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E1FD0E5-AFE8-4E17-A976-84D9A6BB2794",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
