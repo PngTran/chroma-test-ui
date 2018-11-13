@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "42C000B9-0ECA-4640-896F-0D9CF4228B8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A032490-50D3-4EEE-9D6F-B71829B69253",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DCBAB3A5-9975-4CC8-B501-89E0B4F2516F",
+    "height": 48,
+    "width": 110,
+    "x": 1162,
+    "y": 224
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/icon-after-outline",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "423F023B-81FC-4B95-A18A-BC81F21A872C",
+      "overrideName": "E1BA6863-8388-45F9-AC08-E8CAAAE3622D/E3023DF9-2DC2-4282-9FFD-660CC8EB6F60_symbolID",
+      "value": "8C175C94-0ED5-40D3-9864-590B11B13B23"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5DC729B-E153-468D-A875-57FEAA93F515",
+      "overrideName": "E1BA6863-8388-45F9-AC08-E8CAAAE3622D/E3023DF9-2DC2-4282-9FFD-660CC8EB6F60/7831AF71-F10A-4CF9-BF93-12F508AB211A_stringValue",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "198AA76C-7427-44D3-B092-488BDA971B2A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A8C3392B-DFFA-448A-9C8C-BE9D7C02F6B4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

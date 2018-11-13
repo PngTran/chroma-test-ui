@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AEDA879D-B0F4-4D36-AAC9-656E40238C61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "75BFBF2D-B213-48B4-8E87-AA1B2457EE5F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "544A4AD7-096F-4247-B108-1B63480E9ECE",
+    "height": 553,
+    "width": 397,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Modal/default",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A65EBC0-4DA3-43C9-9192-682721EB0314",
+      "overrideName": "F1333232-370F-4B3C-B076-DE7DBC60FB78_stringValue",
+      "value": "It’s shown on the top right of your Certificate of Insurance."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D9906156-E4E2-4689-BD1D-F317E4834901",
+      "overrideName": "C2B510B5-5F51-4F42-B16A-94189DF2BC63_stringValue",
+      "value": "Your Policy number"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C7FBD0D-95E5-4452-AC72-C8FEA492E76A",
+      "overrideName": "A1F31BA3-DC64-4788-9F4D-0DB9992EC2A8_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CF9E50D7-CA7B-4D07-B39D-E50922FA68CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9DC8D2E5-B85D-4707-A5C9-392A853737B0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

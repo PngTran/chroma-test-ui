@@ -1,0 +1,109 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0B29DF61-67F3-45EE-A9BC-652B6278E8F9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A1F53536-D8CC-4C7D-AB06-751CBB49D17B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F79D17D8-E251-48A2-816C-405A73EFC9BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE738AC3-A8BC-4192-8083-7BBD4BF01BDE",
+    "height": 1024,
+    "width": 375,
+    "x": 6989,
+    "y": -801
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F0E0E827-112D-4842-89AC-ADEE10B371AC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EF9CE67D-4A3D-4451-BFF9-C5DBDAF506EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BDFE03D-5675-42BE-B12F-950071EA1E06"
+    },
+    {
+      "class": "group",
+      "id": "81945B27-8DA8-45BA-9DD3-CC82404B667A"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65.66666666666667,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 32,
+    "gutterWidth": 32,
+    "guttersOutside": false,
+    "horizontalOffset": 300,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 3,
+    "totalWidth": 1140
+  },
+  "name": "📱CALLOUT BANNER",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A2A41304-B6B1-4289-AFA5-CA0578F41021",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AB002092-0353-43F9-87C4-524B4DFA7BCB",
+    "guides": [
+    ]
+  }
+}

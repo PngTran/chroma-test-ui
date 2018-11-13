@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "90A52FBB-0064-46A8-A385-D09C57F7D761",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91C09EFA-AF4B-45AB-820C-0BF5C9487AA8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "896D16AE-9A69-4608-9382-34998BDF53AF",
+    "height": 48,
+    "width": 99,
+    "x": 541,
+    "y": 390
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Tertiary/Default-outline",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2129D0D9-5045-41D2-926E-29157894CAD6",
+      "overrideName": "39EE3F57-A74C-462E-98AA-24639E1CD11B/E412C567-B1A8-4B6C-9649-3FDE9ED38811/2A7AEA60-9E1D-4566-A948-B69D59012876_stringValue",
+      "value": "Outline"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CDBECB17-3784-48AB-8377-ADE9A1A18944",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9B852915-6EE7-4284-B286-8009BCBB9803",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

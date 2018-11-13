@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B4BD99C-8497-4BBE-9D8E-10D3F5B0EF5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2520808F-6B69-4C57-B443-B0D83B953A3E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A90EA3F-D825-42D5-811A-7DE466E4A7DC",
+    "height": 52,
+    "width": 281,
+    "x": 0,
+    "y": 144
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Lists/Detail/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5E33C2AC-9BE1-4378-BCC9-9EE73B5E8DC2/04802CB6-E19D-4DD1-81C5-9A1BB089AAAF_stringValue",
+      "value": "$84.83"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5E33C2AC-9BE1-4378-BCC9-9EE73B5E8DC2/68CF60E8-27F7-4D2D-B7CB-47FFE534DE08_stringValue",
+      "value": "Emergency Service Levy"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7619045-5D67-4887-84A0-9BE5FA1BC5CC",
+      "overrideName": "E83A585A-EF7B-4BF9-95DF-E2281CB5F302_symbolID",
+      "value": "26F2F70F-3F15-4F19-9702-0603D5E8584B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CDC7D80E-7794-4001-B6D5-1813A34A3A99",
+      "overrideName": "D9B110FF-3431-45A5-9B7B-8C3A72496BB9_stringValue",
+      "value": "$XXX"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "553AC0F0-34D6-481E-A90D-B317933D1309",
+      "overrideName": "01ADC331-A0AF-48C8-99B9-2345D9D9B2F2_stringValue",
+      "value": "Policy number"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AEFBA50A-D458-4090-BBEC-120AE845E3E0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "293A07D6-4B74-4F8F-9B1A-105BC6588DA4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

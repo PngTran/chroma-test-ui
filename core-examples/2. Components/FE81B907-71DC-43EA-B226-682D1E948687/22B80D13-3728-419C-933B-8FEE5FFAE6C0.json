@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "22B80D13-3728-419C-933B-8FEE5FFAE6C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1DD95361-DCA6-49BD-AE47-58EA8161E723",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D738291-3C72-40AF-A9BB-ADF18E74CA29",
+    "height": 256,
+    "width": 261,
+    "x": 397,
+    "y": 128
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "627178BF-6145-401F-9C91-28A3A2DC1E55",
+      "overrideName": "FEABA710-708C-4099-82EB-49BC085C5692_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5079A9E-174D-4869-A69C-AE4B4DB3A01E",
+      "overrideName": "E785CE17-697A-4C22-A4ED-F3506D93C991/60DBDD3D-D870-4F49-B53A-45B7B85ED742_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C7D5ED2-E9B2-4757-949F-958A14E3B3F9",
+      "overrideName": "E785CE17-697A-4C22-A4ED-F3506D93C991/83CABBFA-4EEB-4D59-9CD7-26026FCBA277_stringValue",
+      "value": "The default card can be extended with utilities to display however you need. Add a border, background colour or images."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4008C40-8DE9-47E8-8B3D-D3467F017E7D",
+      "overrideName": "E785CE17-697A-4C22-A4ED-F3506D93C991/F27C00DC-E98F-4AE4-AAD6-95E50864CC4B_stringValue",
+      "value": "Default"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9209E159-CDDA-4FD9-B80C-3FE62A72012D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FAD96845-FE40-462B-A9A0-7453E408BCF8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

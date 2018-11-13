@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "20D81BFD-F3A8-4946-90D7-54EADEAF3545",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7A9FA3F-F328-4CA1-AC88-DC790ECE8BF6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4509F43A-D067-46A0-A1B0-35856757DBEE",
+    "height": 1024,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Browser/Desktop",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48250FE0-743B-450C-B0C2-F93C0E00F5B0",
+      "overrideName": "491599CF-E0ED-43E3-B867-571CBF8A3D31_stringValue",
+      "value": "Icons"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05E7966B-4783-405E-8BA0-4F9CBE9AFC15",
+      "overrideName": "EC5FD04B-073D-490B-873C-8FAA85F62595_stringValue",
+      "value": "Chroma uses FontAwesome for its user interface iconography. These are semantic icons to indicate actions users can take in an interface (not to be confused with brand specific illustrative ‘product’ icons). FontAwesome works in perfect harmony with our base spacing unit and can be served either as SVG sprites or as font characters. Functional user interface icons should never be displayed greater than 200% of base size (max 32px). A subset is shown below."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0FF48F1C-4728-43BE-85E7-B394C8F2654D",
+      "overrideName": "773B2CF5-0978-40A9-81F8-5A91DF07CECA_stringValue",
+      "value": "Iconography"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DDB8FDC8-9AB7-4BCA-86DE-E0E45EF4F65E",
+      "overrideName": "11DD14BB-D6C8-4870-B4F6-DBC62F8FA05C_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1AFB2E7F-BC7D-428A-A764-7A16EE19F365",
+      "overrideName": "E5E26285-9794-4E82-80EF-EDCF271F7C0E_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5AD1A225-D092-4B9C-B401-CE5EC50FF1FA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D27C3EE3-BCF8-4796-A60F-C9B427FA5313",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

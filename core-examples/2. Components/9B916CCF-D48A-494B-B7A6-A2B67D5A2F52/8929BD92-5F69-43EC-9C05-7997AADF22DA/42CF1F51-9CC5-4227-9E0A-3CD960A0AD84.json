@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "42CF1F51-9CC5-4227-9E0A-3CD960A0AD84",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5D76DB4-C4A4-41F9-B9DC-45923683FA0B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5208C657-40A6-4F04-B1C0-6B360746545C",
+    "height": 64,
+    "width": 193,
+    "x": 16,
+    "y": 20
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "logo/IAG-purple",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 43,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E435FECA-2BF3-49AA-BB0D-1060A8740CFF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "075A1A7A-E87C-441C-8342-AE8370FDD95C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 64,
+            "enabled": 1,
+            "modelID": "constraint_4dc40538-58cf-42ac-a0f4-5897b69d10c2",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 347
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_7c3ab511-0be9-4bd2-ac7c-a5d11161d2ee",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

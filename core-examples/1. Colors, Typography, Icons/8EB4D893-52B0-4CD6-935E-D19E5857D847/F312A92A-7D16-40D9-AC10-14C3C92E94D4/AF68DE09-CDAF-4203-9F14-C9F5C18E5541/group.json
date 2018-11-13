@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF68DE09-CDAF-4203-9F14-C9F5C18E5541",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A2787F4-64FC-4EB9-8600-72B241A6ED5B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D3BB7A95-EBE4-4BC9-8114-2E6D84F17C9A",
+    "height": 466,
+    "width": 262,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A55F444B-C2BB-4733-9F33-03D455322675"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E907F43-7D9B-4328-9BF3-1B58429DFD31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "41BDB7B5-60A2-4439-B54C-040C9162D51C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BED921C1-2975-4E60-93AF-83F598F14640"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54CD9DB5-AB02-4782-B418-C9D5F2CC05C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67C5B6C1-869C-4973-B6CD-24ACACBD92E1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38B7A3E0-CC02-4C7D-9BF9-0D80598DA0B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "91B20158-9CE0-446C-A65B-64D30136A082"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CADEFF91-C83B-4502-976A-48B1B88DE859",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 0,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

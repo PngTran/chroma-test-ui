@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4E86847D-71B1-4EAC-8925-4A2BE8100E71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E84DE1C-38ED-444A-84ED-FCA3E3D56983",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4F5370F-BEDC-4B82-976D-8208A8AB1A23",
+    "height": 316,
+    "width": 235,
+    "x": 533,
+    "y": 52
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9A117959-526A-4C46-84BB-D5810B229A03"
+    },
+    {
+      "class": "group",
+      "id": "9A122922-8155-4C2E-A76F-93F1FAF200CD"
+    },
+    {
+      "class": "group",
+      "id": "83853767-BEDB-4469-8A7C-6F5F7F3464A4"
+    }
+  ],
+  "name": "Contextual Help Card/Link",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CCDCEB70-D1EB-4DA5-85E1-DBEE099EDAAA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "613EF1BD-B2E3-47F2-8A1D-6FF68212BFF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4664A10D-BBD8-49FA-8A9A-76D3EFDCA928",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "273A2DDB-A38F-4DF0-AF7F-BB0FE0813B53",
+    "height": 92,
+    "width": 375,
+    "x": 0,
+    "y": 452
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Progress-bar/Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5D82E50E-216A-4A0A-9BB1-75BB5BE86888/4DD71324-67F5-4DC9-B109-14C16E690259_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5D82E50E-216A-4A0A-9BB1-75BB5BE86888/92C264A9-DBD7-4364-A2F1-2C68944E59F5_symbolID",
+      "value": "862D91ED-756D-41D9-9357-D426F6EF5D43"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5D82E50E-216A-4A0A-9BB1-75BB5BE86888/68CF60E8-27F7-4D2D-B7CB-47FFE534DE08_stringValue",
+      "value": "Accordion list item 1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5A421735-528C-4BD2-8438-35D8866D4B3A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC9F6521-2F0C-49C4-A02C-C7A772B0F961",
+      "overrideName": "7C26791D-781B-47CA-9C22-A3E9398B29AC_symbolID",
+      "value": "A5D130F3-EFE4-44BD-9AA7-475D97A0B38B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "307C6884-09E6-47C4-AA89-8554A35C06C6",
+      "overrideName": "3178B41B-542C-41BA-BC3B-6C71B2C17E61_symbolID",
+      "value": "ED8EB545-D488-4430-AB1B-F63097D62D94"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6D00BA4-77C5-435A-A0C1-FF1634F259E9",
+      "overrideName": "039F25A9-8553-431D-9EDD-2FC15ADBC085_symbolID",
+      "value": "09EE2731-13B8-484E-A0FD-9703C5B9DA84"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84F67992-FBD3-453B-AC2D-4E2BC0A0C5F0",
+      "overrideName": "D8E861BE-947C-48C0-9A53-160E39137837_symbolID",
+      "value": "ED8EB545-D488-4430-AB1B-F63097D62D94"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E9299CF6-7A30-4FB7-A72F-975B2DA61249",
+      "overrideName": "A32D5EC5-E01D-4D7F-8D4F-7619C365328D_symbolID",
+      "value": "09EE2731-13B8-484E-A0FD-9703C5B9DA84"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F1DDDA55-D3C5-410B-BD5B-A6558C2EF688",
+      "overrideName": "7C26791D-781B-47CA-9C22-A3E9398B29AC/9CA51BD2-30AA-443F-97A1-EB585FE678AB_stringValue",
+      "value": "4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34E4C461-8BAB-40BB-84B7-BA8458950965",
+      "overrideName": "CE00323C-9699-4DC0-89FE-7B1CF0A8E9AE_stringValue",
+      "value": "Step 4"
+    }
+  ],
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "21737BD3-B6F7-4B41-BBFB-8B303A18C341",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "37D5ED76-ED26-480B-886D-AB6B4FD0E36A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

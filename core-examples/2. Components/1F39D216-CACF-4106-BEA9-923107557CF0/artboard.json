@@ -1,0 +1,124 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "97428493-1D93-4CBD-BDED-3F3B946A5A12",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1F39D216-CACF-4106-BEA9-923107557CF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D312A51-0374-4CDF-8D48-4FFA0200522F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5762849-1C3A-44EF-8DEE-23227761168B",
+    "height": 1024,
+    "width": 1440,
+    "x": 5519,
+    "y": 2415
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F21201F2-9648-48EE-93D2-08A51D902E60",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "59356FEB-BCC5-4DBD-BA09-951B44EEDC21"
+    },
+    {
+      "class": "group",
+      "id": "D455BC46-A7E7-4BBF-8782-5C266C8DF13C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "252E9A26-8DEA-460A-A58F-24B0D3DE68D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "293B34BB-C45D-48C5-84A6-67ED60E77E9E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6379C3D4-DA3C-4745-BC71-8CA4C8192630"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65.66666666666667,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 32,
+    "gutterWidth": 32,
+    "guttersOutside": false,
+    "horizontalOffset": 300,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 3,
+    "totalWidth": 1140
+  },
+  "name": "RADIO TABLE",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "731E951A-953D-4A4E-A691-82A78AE61FE0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "321327E8-1178-4062-A60C-1F95E93C3AF1",
+    "guides": [
+    ]
+  }
+}

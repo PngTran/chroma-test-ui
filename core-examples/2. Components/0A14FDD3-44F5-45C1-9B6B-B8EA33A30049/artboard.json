@@ -1,0 +1,182 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0A14FDD3-44F5-45C1-9B6B-B8EA33A30049",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 1440,
+    "x": 5519,
+    "y": -2945
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "10AAC44F-E66A-4180-88CB-B4C6ADDFA5B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DCD99B9E-279B-4E76-85B2-7E619B8AFA75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B34CC06-0955-4645-A0AF-9237A2BEBC5C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E76C5E2-65F3-4993-AAA6-42C2376AA064"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D2F0CF5-2B7F-468B-AE7C-D6D61BC4D1DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72425963-323D-4B5D-9F21-C32A07A86583"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "506D50B0-AA04-4288-A7FC-58E2605A1FC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D54338A-C8E9-4D55-93A9-5C93ACADC5A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2715C063-5574-4AA1-AFEE-0CB52C5C24F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D86595B1-3BC2-4087-802E-EFF93130258B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "158FC0B6-DF04-4EEB-AFBC-8FF02AB58599"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A1A9611-5B3C-4157-8A6D-329B57C3D2C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94396794-6793-4E88-BCB8-198FAB4349F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99623811-09BD-4F88-8654-64345E59C331"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DBCE43D3-495F-443D-A25E-D708DA7E1FD3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "160A4676-3512-46D0-863E-9D0077D78F9E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A32DC9D1-6D08-4829-A8C6-4823F57F101C"
+    },
+    {
+      "class": "text",
+      "id": "EF6A60E2-BB41-4F6E-B860-EBB5E98CA15F"
+    },
+    {
+      "class": "text",
+      "id": "F9EED4D1-A41D-40A5-B7DD-91B716B5A6BB"
+    },
+    {
+      "class": "text",
+      "id": "B7CDBD25-423E-47B6-B30A-E4DDB6DCF116"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBDBF545-C4F0-48C1-9689-82F4DE34A1AD"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 65.66666666666667,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 32,
+    "gutterWidth": 32,
+    "guttersOutside": false,
+    "horizontalOffset": 300,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 3,
+    "totalWidth": 1140
+  },
+  "name": "ALERTS",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

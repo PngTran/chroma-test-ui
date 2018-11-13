@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3BD1E0CA-C590-484A-838C-7E610EC60229",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8E25542-8495-4BC7-B5E2-B48531ABDE62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7E33FEB-6908-4542-A544-FE071FDEF0F0",
+    "height": 50,
+    "width": 386,
+    "x": 0,
+    "y": 39
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Nav/border",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4086CACF-5F71-466E-9667-3948D6E87640",
+      "overrideName": "61033FD4-C9E3-4413-B213-62EA79FD358A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81839A60-2688-4023-8D0B-0090CB80D829",
+      "overrideName": "2FE2D8D2-B215-40E1-AF5F-348C661AA953_stringValue",
+      "value": "Nav item"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C2BE6B46-EDC3-4EC9-9472-EF5D7D21383C",
+      "overrideName": "78B1D4B2-78F9-441C-96DA-396FEB74BDD5_symbolID",
+      "value": "A0A90D03-F10F-4FC8-BEE1-871107EB10E8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F3509ED-FFF9-4720-BE90-AC327E25657D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AEF1F9F4-92B7-4D7D-A13B-EE11838E6707",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

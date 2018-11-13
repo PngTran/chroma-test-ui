@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E0F117D9-B8C4-484E-8E88-D0E216DEC574",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58472AC8-8EA2-42ED-A33A-260437BC9ED9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7FDDAEB5-84D5-4FBA-89A7-174E1E1BD784",
+    "height": 95,
+    "width": 340,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Callout-banner/z.assets/list-item-mobile/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A47DE041-FEE0-440A-AF1E-CF18D4461790",
+      "overrideName": "6285DC62-F1C4-4B1A-949A-51DC0B46048A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5D0DA46-2375-4E99-BD3A-14A12E38F87D",
+      "overrideName": "FB903706-6F7A-42C6-8418-B995106EA955_stringValue",
+      "value": "let's say something a bit long and lengthy here"
+    }
+  ],
+  "resizingConstraint": 31,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4AC4C037-21F8-4557-8826-E211C41055B9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "56809506-38C1-48D0-AD51-B23E5F1E3021",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 188,
+            "enabled": 0,
+            "modelID": "constraint_0509dc56-4fde-45af-88e9-4b060ebe8e5d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 221,
+            "enabled": 0,
+            "modelID": "constraint_b697ac07-ee07-401b-9e61-56d89b807b46",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ],
+        "stashedSizeV": [
+          {
+            "constant": 188,
+            "enabled": 0,
+            "modelID": "constraint_3a4277de-a20c-40a2-bc24-8a5a4e066290",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 154,
+            "enabled": 0,
+            "modelID": "constraint_7b8b5700-2c28-495c-8010-525e52e3d710",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,135 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F1E94F31-C536-4BC6-9C6C-44AEC5252116",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4BEEC4B3-432A-4703-9309-576C3AA43ED7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BFC1AF98-83DC-43C9-9A84-6FDBC07CC39E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "95A2BCA5-AC60-4B6E-AD19-64FAC9973A4E",
+    "height": 812,
+    "width": 375,
+    "x": -205,
+    "y": -522
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B424B322-A9D2-4BE5-86F1-0F4AE90AC03E",
+    "guides": [
+      359,
+      16
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8B5D44FC-BB44-4365-885A-F3DA6862486C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D77E320D-9E9F-44EB-9B69-92D9E394011C"
+    },
+    {
+      "class": "group",
+      "id": "A00A2DCE-DCAA-4FC6-AACD-7F05987FFD45"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 61.75,
+    "do_objectID": "FDD09450-AEC4-4FA4-902B-4EF81FBD7194",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "Chroma_Responsive Grid_375 S",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3BBA463-EAA0-4A13-BA35-B76610B34C47",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "avocode": {
+      "managerLink": {
+        "artboardID": "E80AAB8C-3BF2-4BF9-8A20-8B6BD6ECD22A",
+        "managerID": 4319372
+      },
+      "syncTimestamp": 1477876935596
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A75A345A-0E66-425D-A7C5-E62B9521126A",
+    "guides": [
+    ]
+  }
+}

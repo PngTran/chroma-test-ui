@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2BF25640-0EC9-4182-8D3D-A146CCAA8775",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28DEC822-00D8-4B9E-8448-BBAC4F402F80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06B42061-5E3F-4C05-ABCA-67FF21C9B848",
+    "height": 1024,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Browser/Desktop",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48250FE0-743B-450C-B0C2-F93C0E00F5B0",
+      "overrideName": "491599CF-E0ED-43E3-B867-571CBF8A3D31_stringValue",
+      "value": "Spacings"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05E7966B-4783-405E-8BA0-4F9CBE9AFC15",
+      "overrideName": "EC5FD04B-073D-490B-873C-8FAA85F62595_stringValue",
+      "value": "Spacers are a very special part of the kit. They are not supposed to be a part of the interface. Instead they can be very useful to check the space between the elements and keep everything in order and properly aligned. \n\nChroma’s base measurement unit is 1rem = 16px"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "74BB7A81-662A-44F8-A8AD-35B1105FFB3F",
+      "overrideName": "773B2CF5-0978-40A9-81F8-5A91DF07CECA_stringValue",
+      "value": "Spacings"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "994F2968-A79A-43C6-AEDE-636DC794F424",
+      "overrideName": "11DD14BB-D6C8-4870-B4F6-DBC62F8FA05C_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD2071ED-DCEF-4422-BB1F-8E0870058AFF",
+      "overrideName": "E5E26285-9794-4E82-80EF-EDCF271F7C0E_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E4C1557-8E15-48FE-A04B-4A9169B01B6E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D27C3EE3-BCF8-4796-A60F-C9B427FA5313",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

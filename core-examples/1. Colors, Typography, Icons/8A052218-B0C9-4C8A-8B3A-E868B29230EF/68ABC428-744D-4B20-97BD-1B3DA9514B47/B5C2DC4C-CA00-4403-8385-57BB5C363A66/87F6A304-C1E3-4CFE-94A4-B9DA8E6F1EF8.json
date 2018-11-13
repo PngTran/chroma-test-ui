@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "87F6A304-C1E3-4CFE-94A4-B9DA8E6F1EF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72A3D960-EE8D-45ED-9E40-1064366AF4F7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F159C83-82D3-4D50-A32B-E6CCA816E537",
+    "height": 70,
+    "width": 320,
+    "x": 1,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bars/Navigation/Safari/Navigation",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6D16F1DB-A131-4C4F-AF9D-38DF72BD0B0A",
+      "overrideName": "138076AF-5D4A-4E01-89DB-77D0138F6EEF_stringValue",
+      "value": "url.com.au"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "7BA9FCE5-5E1A-4EEB-B1A2-D7ABBA865013",
+      "opacity": 0.1979352678571429
+    },
+    "do_objectID": "2D308621-BE2B-4771-9C97-7045995D6F62",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5BF84B6-AB38-4359-BE5B-B5AD084B76A6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

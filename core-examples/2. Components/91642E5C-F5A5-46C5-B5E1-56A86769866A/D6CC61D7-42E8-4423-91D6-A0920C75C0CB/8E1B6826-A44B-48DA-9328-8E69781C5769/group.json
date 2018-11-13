@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8E1B6826-A44B-48DA-9328-8E69781C5769",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9048D81-8B6A-45DA-93BA-F8736B885063",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B1FDC4B7-D7FD-4614-903E-45714D1BF59F",
+    "height": 259,
+    "width": 298,
+    "x": 32,
+    "y": 130
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F4B722E0-75D5-42A6-9D38-DDC330A6FD6D"
+    },
+    {
+      "class": "rectangle",
+      "id": "2B77A999-8AEE-47D2-B220-0F8659BA39F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3EB66DDA-53CF-4237-86A6-3F2BF17A10CF"
+    }
+  ],
+  "name": "Infographic/Policy Number",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F3181575-C853-4B29-A34C-C00CACB33FC7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.32154340836013,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "06645A87-08FF-4567-995A-776FB0E79D74",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 258.5435,
+            "enabled": 1,
+            "modelID": "constraint_38abc600-c90d-4a9a-95ae-c9bd106b4198",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 298
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_789b5521-8610-4121-9a89-cacc69c8d0b3",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

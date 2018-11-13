@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1AF8B5EF-06F6-4C76-AB98-0A85EBF007A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61A29187-2175-48B9-A0C5-EC5FB8FFFD46",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD136635-B8F7-41BE-83A2-A411A937BBFF",
+    "height": 48,
+    "width": 81,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/Default-outline",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A1D1934-7276-44D2-B877-A148609BFB35",
+      "overrideName": "11967554-739C-4186-9C5F-5AB9D46852F7/E412C567-B1A8-4B6C-9649-3FDE9ED38811/877A8627-46A2-4610-8F96-035200718E4D_stringValue",
+      "value": "Back"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48FC1F59-9444-434C-BAF8-91515995F365",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F9488B0-1D18-4987-AC96-4F291C7FABED",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "buttonBasicPrimaryoutline",
+        "variableIDSketchID": "A7AE2208-8C2F-410F-8B09-6C4341B19DBB"
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

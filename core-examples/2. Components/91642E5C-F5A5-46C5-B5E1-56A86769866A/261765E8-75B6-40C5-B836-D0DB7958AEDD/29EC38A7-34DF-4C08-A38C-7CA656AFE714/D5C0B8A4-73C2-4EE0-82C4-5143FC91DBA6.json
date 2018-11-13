@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D5C0B8A4-73C2-4EE0-82C4-5143FC91DBA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F5471FB-A2A5-421E-87CE-0CF7CEFF6247",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7EDB5DF5-B832-43F0-87C1-A6DCD18ED318",
+    "height": 48,
+    "width": 281,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Lists/Detail/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5E33C2AC-9BE1-4378-BCC9-9EE73B5E8DC2/04802CB6-E19D-4DD1-81C5-9A1BB089AAAF_stringValue",
+      "value": "$403.94"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5E33C2AC-9BE1-4378-BCC9-9EE73B5E8DC2/68CF60E8-27F7-4D2D-B7CB-47FFE534DE08_stringValue",
+      "value": "Premium"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "45216DA0-D024-41B4-B635-EF09571789D5",
+      "overrideName": "E83A585A-EF7B-4BF9-95DF-E2281CB5F302_symbolID",
+      "value": "26CD75AB-C839-44F7-A853-072F347DA593"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8307ACB3-95A9-4DE4-9C96-F1EA04E045D8",
+      "overrideName": "D9B110FF-3431-45A5-9B7B-8C3A72496BB9_stringValue",
+      "value": "$XXX"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3AE82B80-583A-4CCD-9153-4CC58724F2D3",
+      "overrideName": "01ADC331-A0AF-48C8-99B9-2345D9D9B2F2_stringValue",
+      "value": "Policy number"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "311C9E50-10A0-4F5D-A78F-D672B2D9C38E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "293A07D6-4B74-4F8F-9B1A-105BC6588DA4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
