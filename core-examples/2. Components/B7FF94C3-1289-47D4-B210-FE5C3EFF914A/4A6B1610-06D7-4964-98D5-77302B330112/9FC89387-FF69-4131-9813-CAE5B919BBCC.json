@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9FC89387-FF69-4131-9813-CAE5B919BBCC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AF89AE27-6D09-48F2-A7B4-E3002708CBB5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2DEE6BFA-1081-46AF-9076-F835C2A17103",
+    "height": 48,
+    "width": 140,
+    "x": 0,
+    "y": 160
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form group/.input-group/button/prefix",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B579A4FF-C2E8-4C98-BD20-5DF6ED184D15",
+      "overrideName": "D64863CC-AB2B-49D0-AB38-FC1DCCD14213/127B1806-5D30-46F8-880C-1548F6AA664A_stringValue",
+      "value": "Prefix button"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C70CACD-AE50-428E-89D9-84A3C7D8F1A8",
+      "overrideName": "B9C2A44D-A5FF-4A54-9EA0-030D8B6F0374/278F386D-7859-4894-9AEF-EC3A908A0287_symbolID",
+      "value": "726DBAA2-4275-42FE-9A39-9EC89BDC433B"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ECD4A46D-CDA2-4289-B084-6520B300F60D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F438CE28-7835-47B0-93E3-66136FE4DBE2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

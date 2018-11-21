@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "42F334F4-828E-4056-BF74-8E922B1E56B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03ACD2C8-5661-4CDE-9B8A-BAD5C607D81D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61BB68B4-0099-4A36-9D67-2EC736639482",
+    "height": 1024,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Browser/Desktop",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E00C8DF-4B97-4D8B-A17B-3D123D76D097",
+      "overrideName": "491599CF-E0ED-43E3-B867-571CBF8A3D31_stringValue",
+      "value": "Callout Banner"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EDBD4B10-598F-4D8D-B4D5-F01C4D41790B",
+      "overrideName": "EC5FD04B-073D-490B-873C-8FAA85F62595_stringValue",
+      "value": "The callout banner can be used for a variety of content. By applying utility classes you can change the display to suit whatever you need. For more complex layouts you will need to use the grid classnames and structure within the container.\n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD0D13E9-B80B-40B5-99C8-CB09617149F9",
+      "overrideName": "773B2CF5-0978-40A9-81F8-5A91DF07CECA_stringValue",
+      "value": "Callout banner"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E55E272D-B12E-46E5-89A7-6BEAFA8CB152",
+      "overrideName": "11DD14BB-D6C8-4870-B4F6-DBC62F8FA05C_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B44D212-76D1-42B5-9D10-A6F58B46197E",
+      "overrideName": "E5E26285-9794-4E82-80EF-EDCF271F7C0E_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D70791D-CD58-4171-B73B-35880C773578",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D27C3EE3-BCF8-4796-A60F-C9B427FA5313",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3E3D471E-59B1-4B7A-9ECB-E3C60B42C338",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE153209-ED02-4FF5-AF26-887C8F185FA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF3C7369-AF29-4AE1-9879-AC818B976E6B",
+    "height": 241,
+    "width": 1071,
+    "x": 184,
+    "y": 831
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "022819D6-6A4F-4ED1-87D4-FD3E79062C1F"
+    },
+    {
+      "class": "group",
+      "id": "26B04E23-B83B-4E50-955F-66CB017E6999"
+    }
+  ],
+  "name": "Interface font",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B6CD8F2-91A0-4D0B-BD64-B20EEF9A0AD2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "76F8B577-2AEC-489B-9CAA-0B8151668D94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CFED41AC-CD2F-4946-ACF6-5C5277BD6CBD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "ECE46A09-063C-4695-A486-187462DD56C1",
+    "height": 24,
+    "width": 110,
+    "x": 178,
+    "y": 455
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5B3DAE8A-C6D7-48FF-AE41-74812EAE4023"
+    },
+    {
+      "class": "text",
+      "id": "15B637DF-3FC1-4686-AF53-D93E66CFC777"
+    }
+  ],
+  "name": "Annotation Copy 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C01C7A0E-43A6-4BD9-B034-885F247F2C19",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "wIDTH2B3850D26B0F4E838C4467ACD72AB2BE",
+        "variableIDSketchID": "4D2D8513-2D4D-4C54-8B5F-28080B969A51"
+      }
+    }
+  }
+}

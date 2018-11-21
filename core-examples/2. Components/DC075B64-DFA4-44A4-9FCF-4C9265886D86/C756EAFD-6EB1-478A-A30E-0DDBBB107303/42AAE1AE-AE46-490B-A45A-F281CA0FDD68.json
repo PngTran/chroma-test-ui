@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "42AAE1AE-AE46-490B-A45A-F281CA0FDD68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34292531-A951-4160-92E8-9C253C753484",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B9EBAEF8-B6D4-4D4A-A38C-7FC642795BCB",
+    "height": 50,
+    "width": 336,
+    "x": 0,
+    "y": 96
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Radio/block/Selected",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B8EBC2B-05AE-434E-B772-3268471D51A3",
+      "overrideName": "BFB8965D-6278-473F-8AB1-156446353015/B3A80442-82DF-4D51-BCAA-7AB14DB3DF19/6FFC936A-FBC0-4A0B-A6B0-03A04F6D1138_symbolID",
+      "value": "9B912B5A-3E0F-40A0-A202-0857358FFB3C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "55D0ADAC-CF22-4BE1-99FF-A4B9AD1F26E5",
+      "overrideName": "183FCEF6-D467-4E35-AE06-D5939B36CDE5_stringValue",
+      "value": "68/12 Joyton Avenue, Zetland NSW 2017"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07266F52-F462-48A1-89A9-1DD873AA5F84",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "44F9851C-1078-40F1-B6E0-5BF35776E839",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

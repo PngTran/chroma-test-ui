@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7567C1D-A357-4A89-B1E7-1B4BDB9586BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DBA149A6-3403-416A-A862-B75783E7C227",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "237E1EB7-6615-4F7B-A561-BEC5FCC018D0",
+    "height": 48,
+    "width": 241,
+    "x": 0,
+    "y": 386
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form group/.input-only/Read only",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6B9F72E-34BE-4571-9A39-2A442C3BA2B6",
+      "overrideName": "89DC08BF-6E57-4822-8A20-B02E4B5361E0_stringValue",
+      "value": " Read only"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "94B2A456-6889-455E-AF31-7DBC753D6292",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5CBC8E6-EDCB-4A32-BF66-DAFB00489530",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "86CCC9CB-C2C3-4049-A411-8E0DCA78FD03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7EC618FF-4124-4273-9F92-4ACC12953990",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CFCBAED3-411B-4596-883F-0F6A886D197B",
+    "height": 224,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Slide header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "115D9FCB-A993-4462-973F-C1421209E36D",
+      "overrideName": "54E7C039-B6A9-4CB5-B38B-E8CBF896C852_stringValue",
+      "value": "Typography"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB69D2AE-0464-4B18-86FB-25F7BD602495",
+      "overrideName": "86CAAF18-0D19-49B3-A5C7-E871542B41B7_stringValue",
+      "value": "Typography is big part of your designs. Brand font is used predominantly in headings and generic fonts is for body copy to ensure legibility"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4AF67D5B-C33B-4263-9225-B37A307A545E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F99F31C1-2BC8-48DF-8BAD-238F41215B95",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

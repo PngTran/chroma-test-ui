@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F1EC2D6A-E120-4431-975B-4EEB1C451974",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 190,
+    "x": 151,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Link/icon-after Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "800A605E-E471-4376-A8A5-51211F70CB73/2EC7D8B8-63E1-431C-B28F-90030660CA94_stringValue",
+      "value": "Text link supplementary icon"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "57C2F066-9D97-4902-B889-5A0E29D3A091/B791C81D-ED3A-4FD0-B85B-AEBFF41E8A2A/BA1BF799-0B42-4ED3-9F1F-814DA776D622_stringValue",
+      "value": "Default text link looks like this"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FD8DF539-0A1C-4455-B6CD-910251D4AA1C/E3B9FE79-468B-41B9-AF03-D37FB604022B_stringValue",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D780E631-86DD-4C3C-B46B-28D663908410",
+      "overrideName": "0D79C783-F8D2-4F13-8277-8D3B1786F87B_symbolID",
+      "value": "18D4264B-B4D9-494C-9814-8B6CAD5AB4DF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F0F8C54-1630-4719-88A3-CEA73D091A95",
+      "overrideName": "BC0C48AC-9032-4192-AFBA-B6F7769352BB_stringValue",
+      "value": "Text link with left icon"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "975C592B-79E6-4B70-A5D4-1A37A9E1E0A4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

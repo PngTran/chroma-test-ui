@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC4E76EE-C85D-4B22-B943-8AF0CE010151",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3074E5A2-A362-4D69-9F74-B21D4336A804",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67A8418B-BCF4-4658-89C7-0CBFD9469734",
+    "height": 149,
+    "width": 336,
+    "x": 0,
+    "y": 241
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form group/Supplementary text + Inline alert",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "22D7E25F-59C1-4585-8FF7-314A5C9DE129",
+      "overrideName": "9720DBF9-5F4B-431E-929E-6B3C730E5384/CA1D4EE3-3B51-4E08-887B-A9BEB8A9632B_stringValue",
+      "value": "A really long message to check if this will wrap"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A84426F1-1D8B-4CD1-90C6-6CEB1403B63A",
+      "overrideName": "56FF8689-A3B2-4D7D-BAC7-A572C23DEBE2/BEF3776E-5EDC-4405-B9C3-44273396BF06_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "85784DA6-2B25-464C-BE7D-1A8B6A15D368",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "796883B0-CF81-42A8-A681-99F06DBE938B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

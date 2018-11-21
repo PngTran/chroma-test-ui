@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "181BFB35-38FE-460A-A344-B515BE60C774",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FA8F834-E883-4EE2-9DF9-72E5371FD4F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3268496B-DB06-4DD9-8140-8B04BDA28B33",
+    "height": 256,
+    "width": 305,
+    "x": 336,
+    "y": 128
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1D91CA70-52EA-4B51-ADE6-F325BD91B5CC"
+    },
+    {
+      "class": "group",
+      "id": "C7C054C3-6224-4308-B906-5B074A72F2C4"
+    },
+    {
+      "class": "group",
+      "id": "3728F92D-032F-4520-9FD7-5053B514A17A"
+    }
+  ],
+  "name": "Form Content",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8EF2CE4-C14E-47F2-AFDC-698F735A5F56",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableID": "formContent",
+        "variableIDSketchID": "31EB64C6-B085-4706-9ABE-8E0DD1D4F6CE"
+      }
+    }
+  }
+}

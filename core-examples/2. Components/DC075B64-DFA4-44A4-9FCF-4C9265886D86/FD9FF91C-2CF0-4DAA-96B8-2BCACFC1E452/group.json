@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FD9FF91C-2CF0-4DAA-96B8-2BCACFC1E452",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7BFE4C56-15D3-4A16-9D11-717228F14745",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "229ECF78-C86C-465E-9A1C-B8AA8E5CEC75",
+    "height": 120,
+    "width": 382,
+    "x": 874,
+    "y": 522
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "35717E66-2DF7-4E6B-939C-AB00617BA5C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "961867BC-9BA4-4A42-BC60-12E5A887F57C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC45A077-345C-43CC-BCFD-9299A2F9C859"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21D463AB-A885-479B-A089-D2861F6B1F98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74AF493F-C397-4BC7-B82F-81C8ED1EA908"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53450FB0-B639-44B2-973E-1820E4C1B45F"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB6C3372-4783-453B-AFE1-49395DE22BA5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}

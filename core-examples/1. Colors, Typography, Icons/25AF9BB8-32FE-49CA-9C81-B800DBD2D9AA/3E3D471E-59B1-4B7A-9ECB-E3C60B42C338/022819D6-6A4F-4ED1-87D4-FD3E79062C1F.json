@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "022819D6-6A4F-4ED1-87D4-FD3E79062C1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37704838-5ECD-4D59-9934-F1FD180DC36E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "627FF13B-469E-42B3-9108-D97C3D4E0C98",
+    "height": 160,
+    "width": 185,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Section blurb",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "588E0A94-B757-4F61-90E6-185A85A869F3",
+      "overrideName": "7F42A202-E95D-4603-83A4-9114C9289783_stringValue",
+      "value": "Interface font"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26EB6462-7E5B-4679-A20A-C47062915FE9",
+      "overrideName": "69C42161-CCAF-4311-AC8A-BD7E29F0FEDE_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ABE610FE-8CF8-4D40-A342-F90B0B49D0B9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "15B6E5AA-6CF3-4A71-B0C6-3A538B5E9FBE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

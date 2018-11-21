@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6B637B9F-661D-4FC6-B599-2D99E42A5D8C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0396908A-89AB-4190-81CF-F97BECCE061A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BECD8178-4B3D-4BE9-87C9-FBC3EF4AD292",
+    "height": 48,
+    "width": 84,
+    "x": 263,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form group/.input-group/button/suffix",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D05D27D-7B70-4022-866F-E014032FB4F6",
+      "overrideName": "4C4DE6F3-090C-485A-A1EE-9AD1C03965D3/127B1806-5D30-46F8-880C-1548F6AA664A_stringValue",
+      "value": "Send"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "654C80D7-CFCB-42EB-A6F8-0053955BB753",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FB4A99AD-D7A3-48BC-AAB9-1C4846961D3D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

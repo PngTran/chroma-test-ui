@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FAE7BF6F-3FCE-45D4-9FFC-07EF772F2B63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93B962DA-2AD6-42B1-B53F-8388F7C39952",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32710825-04C0-40E3-AD54-1D0E734733C2",
+    "height": 80,
+    "width": 333,
+    "x": 921,
+    "y": 1226
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form group/Password/Hide",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2A953DF1-5E41-4604-B2A7-54E9F6E8076A_stringValue",
+      "value": "Password"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "04290F46-89DB-4834-88BF-AA4E6DED8200/BEF3776E-5EDC-4405-B9C3-44273396BF06_stringValue",
+      "value": "************"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "09B6285B-47F2-4536-8C30-8BDA9BD4ECB9_symbolID",
+      "value": "4851AFC7-D609-44DF-883C-F57BEBFC426D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2153C2E9-5F6C-4308-A6D0-E9A44BFBBDCA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "23FD6152-D060-4210-85FA-0713CCDD85BB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

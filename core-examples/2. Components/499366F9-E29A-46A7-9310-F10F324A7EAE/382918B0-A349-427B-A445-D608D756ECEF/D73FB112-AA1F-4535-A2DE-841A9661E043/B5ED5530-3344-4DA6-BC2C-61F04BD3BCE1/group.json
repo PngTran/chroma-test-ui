@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5ED5530-3344-4DA6-BC2C-61F04BD3BCE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F49D53CB-16F9-4D0D-BEDE-0627B3859EE0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A1482114-D8DE-4163-9612-98754EF93043",
+    "height": 52,
+    "width": 316,
+    "x": 0,
+    "y": 135
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F2BAD705-D3AB-403B-A543-C31D50ED259F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85890282-3E51-4441-80D8-38E8E761685C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26F9B5CF-96BA-486F-96C3-7395E8079FD4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09D558AA-891E-45CA-92C0-AF17D93F3163"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78DED504-2038-4C97-8E2E-2E761DCD8975"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28023481-8440-462D-8842-E91F10B6F8A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED93113C-081B-4CC7-9BBE-E4B8051BC0FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "41F904AD-A8CE-4BC6-BEE7-2A4798750A9A"
+    }
+  ],
+  "name": "week-4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5BABC461-2C8B-48E9-85BB-812D78E23936",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 649,
+            "enabled": 1,
+            "modelID": "constraint_87083243-3701-4f9b-8d5a-f530d62114fd",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 555
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d0fb3d26-9c35-4ad2-b67d-02cccb34e17a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

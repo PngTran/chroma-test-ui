@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7072A1A-CA27-426B-9795-545D03EB5254",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A017916E-1F97-47D4-82F3-B4176561FBA4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "568E3F82-C4A6-49B1-B504-AF4ECD388CD7",
+    "height": 50,
+    "width": 612,
+    "x": 0,
+    "y": 300
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Radio-table/row-default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B87B40CD-F72D-421D-89EF-075007A799A4_stringValue",
+      "value": "TD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DD9AFB64-D081-401A-BF44-CB960751B408_stringValue",
+      "value": "LWMY16"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "66B909D7-AF47-417F-899A-FD14129488AF_stringValue",
+      "value": "HEVA/B HYB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EFB92ED-21EE-468F-BDFD-68139F70A48A",
+      "overrideName": "3512D18A-FEDC-453A-839C-79FEE0DE7FB6_symbolID",
+      "value": "A0A90D03-F10F-4FC8-BEE1-871107EB10E8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47467D53-87E9-4766-8DCD-1DED85CC4D6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3456676C-DD06-4996-8588-0883814AE139",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

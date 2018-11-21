@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE585013-87A2-41A9-AFA1-953365FE41E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 143,
+    "x": 198,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/White/icon-after-outline",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A796A80A-D19A-4DAA-8040-0CAC87EE5D79",
+      "overrideName": "AC1C4B51-4EAE-4450-91E2-64441B39FCEA/47FE1F5B-479D-4FD2-9143-0172394D29B6/66197D53-BEE2-4E99-B16E-42D6307729E1_stringValue",
+      "value": "Tertiary"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D912F99-5F55-4FF4-A245-16DDC55FD347",
+      "overrideName": "AC1C4B51-4EAE-4450-91E2-64441B39FCEA/E3023DF9-2DC2-4282-9FFD-660CC8EB6F60_symbolID",
+      "value": "BC8D387A-8E7F-49F9-8867-187B64D44E0C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD38EC3E-9EDC-4D59-9210-A4A7734961A4",
+      "overrideName": "AC1C4B51-4EAE-4450-91E2-64441B39FCEA/E3023DF9-2DC2-4282-9FFD-660CC8EB6F60/BCF55BE7-7118-4243-B4AD-3CDF2CD965A3_symbolID",
+      "value": "48B498FB-CC7B-407A-A062-3D89878DB9CA"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "75B1B71C-D59B-4D3B-82F2-EA09292557C4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

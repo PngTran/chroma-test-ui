@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "95E600A9-81B6-4655-AE18-A24904218526",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "80E83A2F-F58C-4954-AEF2-B33606E798F7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "354DB1ED-429D-4795-8D9E-6B2CF9C87AE5",
+    "height": 434,
+    "width": 241,
+    "x": 186,
+    "y": 835
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EECB0D9A-8D0B-43DE-A2FE-CCBC1283BD8F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C30F916-3437-4C2D-A63F-BD4B95579232"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8890AD8D-DF7F-49F9-8F46-5F346E872849"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84705446-F187-4155-ADB7-5727B500D32B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "110B4E3B-D858-48B6-8B26-5AF11B437F48"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7567C1D-A357-4A89-B1E7-1B4BDB9586BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DCBCD18F-3E3A-47D4-8290-C79597D00DE6"
+    }
+  ],
+  "name": "Group  [16v l]",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83160AA2-8B59-4A95-877E-83917333F53D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "spacing": 16,
+        "stackType": 0
+      }
+    }
+  }
+}

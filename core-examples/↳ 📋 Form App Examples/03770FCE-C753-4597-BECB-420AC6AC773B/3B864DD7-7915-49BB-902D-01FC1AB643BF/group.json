@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3B864DD7-7915-49BB-902D-01FC1AB643BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 634,
+    "width": 768,
+    "x": 336,
+    "y": 128
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "58203609-C687-4FA1-81DE-234CD4599CD4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "664DE1C4-AD48-42B1-A9C6-55ACEE8E8836"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "671A2FD0-24DB-466A-A6EA-528946D56E18"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D46164EE-C66A-40F4-BFB7-3D6925EB55CD"
+    }
+  ],
+  "name": "Zones",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

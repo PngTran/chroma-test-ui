@@ -1,0 +1,138 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 0.5,
+    "blue": 0.4980392156862745,
+    "do_objectID": "77430769-98EB-49F0-9E7F-27B350AEFD1E",
+    "green": 0.4980392156862745,
+    "red": 0.4980392156862745
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5912D0D3-55B4-419F-BC77-4D1744964174",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "304804D6-6512-40B7-B2D0-DFA469AA39CE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "47C97A8C-8DE9-4D19-8651-CB6185579AB0",
+    "height": 667,
+    "width": 375,
+    "x": -303,
+    "y": 3609
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "847D8A60-DB40-4874-9E74-1A18AC2575FD",
+    "guides": [
+      24,
+      359,
+      16,
+      351
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FD465A96-CD86-4F38-B934-BD84AED83C1B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "603BB7B6-543B-4131-82BB-3F8D64C64B5A"
+    },
+    {
+      "class": "group",
+      "id": "0090336D-E6AB-4E7F-A4E2-46010A1F12B5"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 61.75,
+    "do_objectID": "B67057EF-067E-4290-9B10-AAAA258A27E0",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "LEFT HAND NAV - Mobile",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A973D236-30FA-427A-BA98-AEAA4B220B33",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "avocode": {
+      "managerLink": {
+        "artboardID": "E80AAB8C-3BF2-4BF9-8A20-8B6BD6ECD22A",
+        "managerID": 4319372
+      },
+      "syncTimestamp": 1477876935596
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E865CDA8-3988-4811-8D91-06DA15AEF5A3",
+    "guides": [
+      690
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "89BF47BA-44E5-4939-89C1-A34601AE86C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D60EEBE6-3F1D-4C6B-8B5E-91222DB819E6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "42706550-9E7F-44D9-931F-63E37C477F9C",
+    "height": 170,
+    "width": 245,
+    "x": 86,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "EA1DB647-F9D8-49F5-9833-580364D0ABC6"
+    },
+    {
+      "class": "shapePath",
+      "id": "2D1FD6FE-06FD-4749-8F04-CAFC6825EFDE"
+    },
+    {
+      "class": "shapePath",
+      "id": "2AD2EF33-1B14-404F-8355-9D8348863757"
+    },
+    {
+      "class": "shapePath",
+      "id": "1F907E61-56FE-4DEC-9D88-751812E6C7AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D126EFFB-CE60-4402-B393-057249AA482D"
+    }
+  ],
+  "name": "noun_541136_cc",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "402CFA19-49A3-48E4-8A2E-6B40C57A4C25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

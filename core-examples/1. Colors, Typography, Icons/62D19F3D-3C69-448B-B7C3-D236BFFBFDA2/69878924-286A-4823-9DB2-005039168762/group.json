@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "69878924-286A-4823-9DB2-005039168762",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B984529-8DF8-4B85-A776-3D8EBCE2515F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4456B0DB-3585-492F-AB7A-9A8808EE2140",
+    "height": 160,
+    "width": 1071,
+    "x": 187,
+    "y": 320
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F53F50B0-83DD-4813-98F3-380A576E51C1"
+    },
+    {
+      "class": "group",
+      "id": "B6678ED3-C2EB-4353-A3BD-7190F0C5C1A5"
+    }
+  ],
+  "name": "Brand icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6CAA5D92-91E3-4ECD-9F8D-10AD5E5780D0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

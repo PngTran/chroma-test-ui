@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AFF3479A-9384-45D6-B79E-7486714234BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 257,
+    "width": 184,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Section blurb",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8DDB1DDD-75C4-4BF7-8235-7D2BC5C20BFE",
+      "overrideName": "7F42A202-E95D-4603-83A4-9114C9289783_stringValue",
+      "value": "Brand colours"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B5BD589-E19E-440B-BB6A-934F3B7669C7",
+      "overrideName": "69C42161-CCAF-4311-AC8A-BD7E29F0FEDE_stringValue",
+      "value": "Primary and Secondary is a brand specific colour, this is configurable for each brand via the theme variables file. Tints and shades are also generated to provide more variations."
+    }
+  ],
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "15B6E5AA-6CF3-4A71-B0C6-3A538B5E9FBE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

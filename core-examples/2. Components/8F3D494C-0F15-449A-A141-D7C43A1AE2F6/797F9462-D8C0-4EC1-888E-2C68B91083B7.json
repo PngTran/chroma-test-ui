@@ -1,0 +1,102 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "797F9462-D8C0-4EC1-888E-2C68B91083B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B66C2692-2115-4051-8EA1-47BAC2C562E4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "317A5BB3-9FFD-4D08-9392-515861BF8AC2",
+    "height": 101,
+    "width": 518,
+    "x": 185,
+    "y": 582
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card/icon-before/light",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8A690327-50A3-49FF-B925-83EB9B61A3D4_stringValue",
+      "value": "Branding Do You Know Who You Are"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FEABA710-708C-4099-82EB-49BC085C5692_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "89D5B4AE-6180-4DE4-9831-633DA6913414/B3A80442-82DF-4D51-BCAA-7AB14DB3DF19/DFF58D67-E67A-4A42-90D3-0DADCAF662D1_symbolID",
+      "value": "9E53FF1F-9609-4700-97C5-A8ED8F9EA2FA"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "60DBDD3D-D870-4F49-B53A-45B7B85ED742/E33AA0C5-E907-4D79-8E1D-30132E1950FA_symbolID",
+      "value": "1C27B0A4-E985-440D-9FC6-E6099EF9C84A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "738DEC36-F117-402B-BCC7-3613C43A2F8A/89D5B4AE-6180-4DE4-9831-633DA6913414/278F386D-7859-4894-9AEF-EC3A908A0287_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "738DEC36-F117-402B-BCC7-3613C43A2F8A/89D5B4AE-6180-4DE4-9831-633DA6913414/B3A80442-82DF-4D51-BCAA-7AB14DB3DF19/6FFC936A-FBC0-4A0B-A6B0-03A04F6D1138_symbolID",
+      "value": "9E53FF1F-9609-4700-97C5-A8ED8F9EA2FA"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "738DEC36-F117-402B-BCC7-3613C43A2F8A/8A690327-50A3-49FF-B925-83EB9B61A3D4_stringValue",
+      "value": "Card with icon"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A44D163-D7F7-4E4E-8A0B-46BD364C1AB0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8719C40-824E-494E-9526-B5AC6F216EB9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

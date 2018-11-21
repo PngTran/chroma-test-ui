@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "74AF493F-C397-4BC7-B82F-81C8ED1EA908",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E60B4DB6-D708-411F-B7BD-440EC076D39A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7A415C0-DAC5-4454-874B-877E357D0905",
+    "height": 48,
+    "width": 113,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Radio/button-group/z.assets/First/default",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "26CEF717-D129-4423-82E5-A38FF87DFE85/36AC596D-7F33-4E83-9C26-A3C7DB8C1D71_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "88E1CCD9-7789-4A64-9813-6AB5274A542D_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2601CC20-C782-41C0-98B6-C3EFD7956B5E/127B1806-5D30-46F8-880C-1548F6AA664A_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D1A6879-5883-4C1E-8478-27B689B8026A",
+      "overrideName": "94F068F5-1FF2-436F-B88D-ABB226515BA5_stringValue",
+      "value": "Yes"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A07A551-59AE-4157-9E4C-DDA9DCC7C3DA",
+      "overrideName": "3DB3A281-9D5B-4A15-937E-BFCC2448B16E_stringValue",
+      "value": "First item"
+    }
+  ],
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AD67D917-225E-4252-B2B7-70B818AB8024",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DEA7C60A-F63A-43C8-9A51-9CADB7B23F89",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

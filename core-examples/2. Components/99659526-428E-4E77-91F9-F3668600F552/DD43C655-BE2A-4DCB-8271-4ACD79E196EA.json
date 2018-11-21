@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DD43C655-BE2A-4DCB-8271-4ACD79E196EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BCEB38E5-FBE0-4208-85C9-E686F5409746",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B885A3A8-C6F0-463C-9296-28401BC8D4C7",
+    "height": 669,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Modal/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ADD7FE75-CC85-4271-97AA-B80F6C6D5F32",
+      "overrideName": "F1333232-370F-4B3C-B076-DE7DBC60FB78_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF48F6CC-81B7-41E3-98DB-B6FD678C0F99",
+      "overrideName": "C2B510B5-5F51-4F42-B16A-94189DF2BC63_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C55F84FE-5656-433D-BA55-52473386C246",
+      "overrideName": "A1F31BA3-DC64-4788-9F4D-0DB9992EC2A8/54FB3C8B-5C87-4217-9E07-A491D7B48930/E412C567-B1A8-4B6C-9649-3FDE9ED38811/127B1806-5D30-46F8-880C-1548F6AA664A_stringValue",
+      "value": "Done"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C4CD761-A4DC-422C-B076-3898DD63E8F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9DC8D2E5-B85D-4707-A5C9-392A853737B0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

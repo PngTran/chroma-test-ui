@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9CEBF9C-EF47-4F65-BA0F-DFAB7C8D0D36",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0EADE035-28FD-4863-B2D4-21412B1A0F61",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76DA14F8-E45C-4BA0-BE6F-D460FA0DECD1",
+    "height": 74,
+    "width": 335,
+    "x": 0,
+    "y": 74
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Lists/Mobile/Detail",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5E33C2AC-9BE1-4378-BCC9-9EE73B5E8DC2/04802CB6-E19D-4DD1-81C5-9A1BB089AAAF_stringValue",
+      "value": "2009 Volkswagen Golf"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5E33C2AC-9BE1-4378-BCC9-9EE73B5E8DC2/68CF60E8-27F7-4D2D-B7CB-47FFE534DE08_stringValue",
+      "value": "Vehicle\n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5907EA43-8DA5-488D-9E41-05F322DCD22C",
+      "overrideName": "38A4C074-E3C2-448B-85EA-983CE4FCCCF6_symbolID",
+      "value": "26CD75AB-C839-44F7-A853-072F347DA593"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B7EBE48-5D87-42BA-89CB-9A442E1929A3",
+      "overrideName": "10E340AD-432C-41B4-A73A-A39A3CFD02DA_stringValue",
+      "value": "MOT1234567"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4198E209-2763-4A59-9CBD-688E987C1942",
+      "overrideName": "20ECCF49-C25E-45A3-A672-5CC3171CF234_stringValue",
+      "value": "Policy number"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B17F9A47-1616-4578-AB45-367F25C83590",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3649CBF9-5472-4342-9ECF-C8BAC6E6944F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

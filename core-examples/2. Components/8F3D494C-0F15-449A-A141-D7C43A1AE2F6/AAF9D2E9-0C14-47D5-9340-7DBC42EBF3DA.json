@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AAF9D2E9-0C14-47D5-9340-7DBC42EBF3DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E85AB50-279B-4A4A-9E8D-0342F5DAD034",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E994F8A-6897-48B9-865F-65F32217F182",
+    "height": 256,
+    "width": 334,
+    "x": 552,
+    "y": 248
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card/z.Master/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "02E5B48C-3E75-42AE-A42D-50272B857C83",
+      "overrideName": "F27C00DC-E98F-4AE4-AAD6-95E50864CC4B_stringValue",
+      "value": "Card with Border"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D3FA30C9-FB4E-4663-A562-D03B745BEB0C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "254C26C1-2E12-4C21-9802-8D3488894487",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

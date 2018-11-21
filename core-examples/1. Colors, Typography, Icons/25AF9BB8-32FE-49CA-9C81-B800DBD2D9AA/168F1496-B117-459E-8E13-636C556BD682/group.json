@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "168F1496-B117-459E-8E13-636C556BD682",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "111E9A85-4958-4D37-BBEA-FF41086C2D6E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C8DC768-A696-4941-81B7-A579B137623E",
+    "height": 437,
+    "width": 1071,
+    "x": 184,
+    "y": 320
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0BB37FDE-3ED5-4FB3-B194-B070A6526616"
+    },
+    {
+      "class": "group",
+      "id": "595BA8CA-6B16-4E67-9D1C-E279DA6DABD4"
+    }
+  ],
+  "name": "Brand font",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1793A1C3-AC2F-4887-965A-DA0843BD4736",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

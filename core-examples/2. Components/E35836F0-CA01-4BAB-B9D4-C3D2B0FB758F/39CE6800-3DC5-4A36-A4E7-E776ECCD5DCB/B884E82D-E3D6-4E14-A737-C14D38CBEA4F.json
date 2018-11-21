@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B884E82D-E3D6-4E14-A737-C14D38CBEA4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D34D280E-9EA8-45CB-8146-143D744CFBC3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23392DD6-D624-4FC2-B1FF-7CA3153DB1ED",
+    "height": 64,
+    "width": 347,
+    "x": 0,
+    "y": 128
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Left-hand-nav/list-item/lvl2/active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A9208FE2-A884-4632-9DA6-9302678C56EC",
+      "overrideName": "7D68AAF4-5021-414C-9176-7FFF8C06C562/B526CDC1-5259-4381-A236-0F933ADE465A_stringValue",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0BD592E2-7215-4E43-99DD-2CEEDBF0C250",
+      "overrideName": "092FD37F-457C-452D-BF21-2A35D2721415_stringValue",
+      "value": "Fabulous N Fresh Cakes…"
+    }
+  ],
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9E6F57B-A062-4E8A-8E57-1E6D437288F5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD18072A-B109-4836-8220-59A0D9DAFA65",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

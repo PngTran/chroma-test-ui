@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E9535BD0-0A28-47C6-BB19-9C277624A03A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4060852A-FEC0-449C-9696-EAB0841A45FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "679B3BC4-8912-43A1-9E6F-8045386C4434",
+    "height": 48,
+    "width": 384,
+    "x": 2,
+    "y": 148
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C773735C-6D50-4E3A-B442-5E942CB06651"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4571D8E6-B584-4FD4-A5A7-4C40A09D129B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D18DC556-FFDF-4645-A2F4-48F8E5645138"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EED267D7-EBEC-4C91-966B-AF7A9D2054C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72A45F47-4F53-4857-9E71-C0D5C2B8D0B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D68A3A4-7C31-4F4C-B601-B36F27829A23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5396B196-0C7A-41C8-A948-0601717ACA7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3369CD51-9690-4E87-B731-4D94FFC3E695"
+    }
+  ],
+  "name": "row [0h t] copy 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "95EF17C9-E258-4A4E-B3CA-8431D89C4349",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E3F46DB-AEB0-4DFC-A522-22830B703DA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "53F5BD74-F202-402A-894B-009B3A852BE8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5090B0F6-016F-4F93-9D74-2D576B75C9E0",
+    "height": 110,
+    "width": 726,
+    "x": 186,
+    "y": 1929
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "action-list/desktop/date",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6CD51DFC-C962-4B8A-A971-447E5EF0E973",
+      "overrideName": "E7659E25-5FCF-4BCC-931A-6A345C0B9418_symbolID",
+      "value": "EED67F02-B0B1-4557-B6D5-4CC423618496"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A4B92AE-9FA4-4CD0-A665-936BB4E7A7C2",
+      "overrideName": "CBFF98B7-292B-4641-BA7B-B75950518602_stringValue",
+      "value": "MAR 2018"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "540C7CB4-5A70-4D37-A8CC-B415CE596042",
+      "overrideName": "EE8B79A8-9156-4C72-A02B-3E11D1255E47_stringValue",
+      "value": "Tax Invoice"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6DFC5521-A88C-485A-B6CD-20D821CB78E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EAED1C3E-678F-46A3-AD8C-3BF1A1D6E52B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1542804206.678348
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

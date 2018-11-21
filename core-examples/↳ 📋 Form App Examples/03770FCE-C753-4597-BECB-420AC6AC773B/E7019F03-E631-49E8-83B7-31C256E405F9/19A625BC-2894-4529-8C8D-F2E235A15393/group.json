@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "19A625BC-2894-4529-8C8D-F2E235A15393",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F24A06D-FDB1-4382-B7A7-8639A18680DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E969F2C-728D-49D8-AEA5-FF1DD52B1F64",
+    "height": 80,
+    "width": 303,
+    "x": 0,
+    "y": 220
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A564ABEB-B742-4307-AACD-A86CAE371E15"
+    },
+    {
+      "class": "text",
+      "id": "436B576C-1ED3-4A77-B4C2-33FB83F66FB7"
+    }
+  ],
+  "name": "Registation Term",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A8AECC1-E5CD-47C1-8152-74CD4BDD8B48",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

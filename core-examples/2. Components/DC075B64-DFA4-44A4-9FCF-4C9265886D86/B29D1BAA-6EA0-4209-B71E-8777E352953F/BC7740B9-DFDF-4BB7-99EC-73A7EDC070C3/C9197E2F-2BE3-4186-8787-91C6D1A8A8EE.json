@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C9197E2F-2BE3-4186-8787-91C6D1A8A8EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C3FC86D-EB79-46DD-BFC2-B2AD007F4710",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3AE876BB-3287-47BA-BFC4-5A86929F6922",
+    "height": 94,
+    "width": 186.3100775193804,
+    "x": 423.6899224806204,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Radio/block-icon/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC376D81-32A2-4C2C-84D6-2811C20EEEE1",
+      "overrideName": "4D7B6DAB-CACC-4F8B-9982-22E9D5661C71_stringValue",
+      "value": "Theft or attempted theft"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F39D596-9F3C-4A23-8C67-28BC831FC579",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9D91EEB6-0107-4874-B4A6-F88912DEDFDC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
