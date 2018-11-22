@@ -27,11 +27,11 @@
     "do_objectID": "FE738AC3-A8BC-4192-8083-7BBD4BF01BDE",
     "height": 1024,
     "width": 375,
-    "x": -2485,
-    "y": 3609
+    "x": 7686,
+    "y": -220
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",

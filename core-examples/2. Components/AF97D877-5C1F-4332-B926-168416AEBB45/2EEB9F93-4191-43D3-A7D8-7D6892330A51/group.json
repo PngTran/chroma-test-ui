@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2EEB9F93-4191-43D3-A7D8-7D6892330A51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A46042E-60FE-433B-B053-DBA8ACAEFB29",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AAD2E58C-C4AB-42B7-A120-5D774383CE28",
+    "height": 262,
+    "width": 1441,
+    "x": 0,
+    "y": 656
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D44D78DF-4270-4FDB-B5E1-17830C26189C"
+    },
+    {
+      "class": "group",
+      "id": "649574D8-3F6B-4B44-8ED1-6AE46C89D488"
+    }
+  ],
+  "name": "Callout-banner/feature",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F67EF5DB-C2C8-4B0D-9674-169F1F06C761",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

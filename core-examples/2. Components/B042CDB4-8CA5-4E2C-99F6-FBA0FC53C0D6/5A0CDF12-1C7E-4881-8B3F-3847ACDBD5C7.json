@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A0CDF12-1C7E-4881-8B3F-3847ACDBD5C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "007EF373-C971-472E-B1BD-FD837F961040",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7395E6C7-22D1-4B4A-B2C4-4F2E43B40B17",
+    "height": 178,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Slide header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "115D9FCB-A993-4462-973F-C1421209E36D",
+      "overrideName": "54E7C039-B6A9-4CB5-B38B-E8CBF896C852_stringValue",
+      "value": "Tab"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB69D2AE-0464-4B18-86FB-25F7BD602495",
+      "overrideName": "86CAAF18-0D19-49B3-A5C7-E871542B41B7_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74A05C6F-64A0-4BA8-BF52-3FB723728EBE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F99F31C1-2BC8-48DF-8BAD-238F41215B95",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

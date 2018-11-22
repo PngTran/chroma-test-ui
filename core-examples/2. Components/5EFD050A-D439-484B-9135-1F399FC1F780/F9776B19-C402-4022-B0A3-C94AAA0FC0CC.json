@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F9776B19-C402-4022-B0A3-C94AAA0FC0CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "114646AA-27EA-4B6C-8836-1D0CA9B3BC89",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "984A7ED1-CEF3-4B7E-A5AE-CF32819F7AF1",
+    "height": 178,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Slide header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "115D9FCB-A993-4462-973F-C1421209E36D",
+      "overrideName": "54E7C039-B6A9-4CB5-B38B-E8CBF896C852_stringValue",
+      "value": "Chroma Design System"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB69D2AE-0464-4B18-86FB-25F7BD602495",
+      "overrideName": "86CAAF18-0D19-49B3-A5C7-E871542B41B7_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F9DDF1E3-2C85-458D-BD8F-27C3E6678BB6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F99F31C1-2BC8-48DF-8BAD-238F41215B95",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

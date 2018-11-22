@@ -34,7 +34,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F11BD79C-D3AB-44A7-9F97-7963950AD6D5",
-    "height": 2950,
+    "height": 2455,
     "width": 1440,
     "x": 3141,
     "y": -3993
@@ -164,6 +164,26 @@
     {
       "class": "symbolInstance",
       "id": "404C5B6E-E661-4724-AFFC-40FC97362AF1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07FF6F83-9711-4DF3-9C09-7766D5DD698F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7348EF6A-F96D-4E47-A4DE-1C35C6FDB0DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C873E5DC-3D7A-4F58-B0D7-8BD68F34B7B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FCCA91CD-8897-4E8F-ABCF-8DF28EBB5006"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40B22320-3BB7-4D26-9433-105D8EDC6B46"
     }
   ],
   "layout": {
@@ -177,12 +197,12 @@
     "gutterWidth": 32,
     "guttersOutside": true,
     "horizontalOffset": 168,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1104
   },
-  "name": "LISTS, ACTION LISTS",
+  "name": "LISTS, 🎉 ACTION LISTS",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

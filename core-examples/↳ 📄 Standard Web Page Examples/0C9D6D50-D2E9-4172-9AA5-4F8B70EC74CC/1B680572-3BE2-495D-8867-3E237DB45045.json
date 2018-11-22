@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B680572-3BE2-495D-8867-3E237DB45045",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1BAA2BF-57BE-45DA-878D-A4A9F665CBBF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61A5F26A-F246-41C3-9DFE-C47D57592068",
+    "height": 96,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header/primary/desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97008202-CDDF-48D9-AF2D-E08D46CBE720",
+      "overrideName": "EF904F84-3BBF-450E-9882-6E42D962ED5F/B3A80442-82DF-4D51-BCAA-7AB14DB3DF19/6FFC936A-FBC0-4A0B-A6B0-03A04F6D1138_symbolID",
+      "value": "3A5EF485-8B4C-49E1-ACAC-32FE217AF1FA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "011F39D7-F8F6-4AB7-AEF4-9E8AB94A8576",
+      "overrideName": "F9956DF1-A2B5-42D9-8F9D-95E492C99DBA_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89B4502F-BA0C-448D-8315-45FD86D246AF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "33BBFB86-29A2-4AFF-BC39-D66D2824CB71",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

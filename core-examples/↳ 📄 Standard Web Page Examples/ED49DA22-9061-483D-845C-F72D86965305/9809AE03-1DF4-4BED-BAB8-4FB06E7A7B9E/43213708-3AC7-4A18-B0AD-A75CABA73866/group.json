@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "43213708-3AC7-4A18-B0AD-A75CABA73866",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A86AC36-136D-4AF8-A2F9-BD4DA98F9653",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FED37581-70BD-414F-8A35-E509F0452AAF",
+    "height": 80,
+    "width": 717,
+    "x": 723,
+    "y": 488
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "723527CA-0328-46B2-A026-41CB815CBE9D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "835244B3-0DC3-458C-913F-02A12599C726"
+    },
+    {
+      "class": "group",
+      "id": "2FA552DB-C5A6-4208-A7BA-85B79C3D1E7D"
+    }
+  ],
+  "name": "Extra motivator",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A112E97A-3762-49DB-A23E-B6302CE3CB9A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

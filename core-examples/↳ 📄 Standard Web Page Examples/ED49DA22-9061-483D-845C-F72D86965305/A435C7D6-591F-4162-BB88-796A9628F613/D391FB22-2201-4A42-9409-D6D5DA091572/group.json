@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D391FB22-2201-4A42-9409-D6D5DA091572",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "799682A1-CCDC-4880-B3FD-00B6A3E31A1C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01B1CFE7-9668-42E1-83F4-2C7F24EB51B6",
+    "height": 80,
+    "width": 1270,
+    "x": 91,
+    "y": 97
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0D75AC13-832C-4472-AFDF-4B619C10C8EE"
+    },
+    {
+      "class": "text",
+      "id": "A2272F3C-3177-46FA-9C86-192CBB33B476"
+    }
+  ],
+  "name": "Introduction [16v c]",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E104EEA5-19FE-4611-84AA-32AA6B06DF08",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -34,7 +34,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EDB2D1F1-5109-4AB0-8665-9A1318FC95A9",
-    "height": 1984.1875,
+    "height": 2394.1875,
     "width": 1440,
     "x": 6167,
     "y": -3993
@@ -48,7 +48,8 @@
     "do_objectID": "B22CF65F-5C76-4929-B038-BD4C5D947F69",
     "guides": [
       1273,
-      167
+      167,
+      577
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -116,6 +117,10 @@
     {
       "class": "symbolInstance",
       "id": "2934B15C-184E-4EBA-8B95-A03FC118EDD5"
+    },
+    {
+      "class": "group",
+      "id": "BBF8E41D-AFA0-40BF-A8B1-E8C73A74529D"
     }
   ],
   "layout": {
@@ -129,7 +134,7 @@
     "gutterWidth": 32,
     "guttersOutside": true,
     "horizontalOffset": 168,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1104

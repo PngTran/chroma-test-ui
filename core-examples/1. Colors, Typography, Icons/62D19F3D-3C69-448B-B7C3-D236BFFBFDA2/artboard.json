@@ -34,9 +34,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AB7C83CB-ACDF-466B-87BA-FE0498B66E38",
-    "height": 1141,
+    "height": 1280,
     "width": 1440,
-    "x": 578,
+    "x": 380,
     "y": -3174
   },
   "hasBackgroundColor": true,
@@ -76,6 +76,10 @@
     {
       "class": "symbolInstance",
       "id": "F0DAFE06-AFC9-4EC1-9870-D347DEF0F44D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C365B225-28B5-41EC-972C-A38DD622E285"
     }
   ],
   "layout": {

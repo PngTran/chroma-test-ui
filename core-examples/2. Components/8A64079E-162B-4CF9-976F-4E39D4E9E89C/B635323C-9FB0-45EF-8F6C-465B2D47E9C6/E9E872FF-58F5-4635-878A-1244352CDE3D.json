@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E9E872FF-58F5-4635-878A-1244352CDE3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A57EF2D-481B-41C1-A687-E3119BFEB074",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F7CB6798-C02C-4209-9454-30C503A6C269",
+    "height": 64,
+    "width": 334,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Left-hand-nav/list-item/lvl1/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B400504F-50CF-4373-BEAD-E9EE5EBE5696",
+      "overrideName": "DD89690D-1B4F-4477-9A6D-DAA395040B8C/6027CF9A-BE11-4F39-9416-1E2BFF4898B9_stringValue",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA5733E6-8A66-4EFC-A33A-1A788F3CBB0B",
+      "overrideName": "0D9AE951-E845-4F09-B2AA-B8ED99E9CDDD/3A17ED00-8420-4968-9B69-50AB356D85D2_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D365E646-551D-48AF-A08A-DA66F3D98344",
+      "overrideName": "94F2BD39-A651-46BD-85C0-3DD0909E5867_stringValue",
+      "value": "Home"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FBD7204B-34BA-4B48-8001-AF31E343F92C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "58001749-AA98-48E9-834A-770404084E49",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

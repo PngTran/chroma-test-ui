@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "5090B0F6-016F-4F93-9D74-2D576B75C9E0",
     "height": 110,
-    "width": 726,
+    "width": 609,
     "x": 186,
     "y": 1929
   },
@@ -69,7 +69,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "size.update": 1542804206.678348
+        "size.update": 1542804779.299342
       }
     }
   },

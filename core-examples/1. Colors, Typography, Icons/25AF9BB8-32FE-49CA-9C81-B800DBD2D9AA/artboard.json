@@ -36,7 +36,7 @@
     "do_objectID": "EE0442D7-2AD8-4C27-B4A0-157B75F7FBAC",
     "height": 1281,
     "width": 1440,
-    "x": -1050,
+    "x": -1130,
     "y": -3174
   },
   "hasBackgroundColor": true,
@@ -80,6 +80,10 @@
     {
       "class": "group",
       "id": "E44DBB2E-F30C-4097-BF34-C31E3A742238"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73A6987B-111B-402E-A769-592B22ACC1B1"
     }
   ],
   "layout": {

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "30371010-92EC-4B05-AD32-DB4D2A07608D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0EA827D-AFFB-4261-85AC-257BA2F147DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D03B9729-7233-4F6C-B04B-501BE958592B",
+    "height": 46.2439024390244,
+    "width": 44.34746479956907,
+    "x": 43.99661460337003,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Date-picker/z.assets/cell-style/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9BD294E9-2A6B-4101-A1B9-D4F20C45F1D1",
+      "overrideName": "C752BA20-D4CA-4D86-AAA5-899EB8C5E32F/302F44CB-C5EE-4C5E-8FA1-FEE1784732DA_stringValue",
+      "value": "2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3F9DFAA5-FEB0-4202-A1DC-4460A01B6074",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "65897BEE-1962-4C0F-BB8B-C1AC04E1734D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

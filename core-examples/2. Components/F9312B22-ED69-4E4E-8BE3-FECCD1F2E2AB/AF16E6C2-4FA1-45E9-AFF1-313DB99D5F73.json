@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF16E6C2-4FA1-45E9-AFF1-313DB99D5F73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F6C7251-C0E0-426C-B880-3930E8B75F37",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "952C7133-44AE-4690-A5EB-E65FAFAC22AC",
+    "height": 178,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Slide header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "115D9FCB-A993-4462-973F-C1421209E36D",
+      "overrideName": "54E7C039-B6A9-4CB5-B38B-E8CBF896C852_stringValue",
+      "value": "Receipt"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB69D2AE-0464-4B18-86FB-25F7BD602495",
+      "overrideName": "86CAAF18-0D19-49B3-A5C7-E871542B41B7_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5BB97F2B-E297-4157-95E2-AA255CE11F63",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F99F31C1-2BC8-48DF-8BAD-238F41215B95",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
