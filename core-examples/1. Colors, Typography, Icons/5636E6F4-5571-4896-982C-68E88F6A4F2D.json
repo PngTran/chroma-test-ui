@@ -1,0 +1,75 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "5636E6F4-5571-4896-982C-68E88F6A4F2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B6D2DAA-7019-46F4-9C5A-77535033D130",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C7F1055D-175D-49F8-A0F1-E631636F3A3B",
+    "height": 1117,
+    "width": 817,
+    "x": 2706,
+    "y": -2916
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/3498e5918dde6615eefa96b77219ced8caea67f6.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Screen Shot 2018-11-19 at 1.26.12 pm",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F31AAD54-3FAA-4464-A5F0-192344D08C45",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 1117,
+            "enabled": 1,
+            "modelID": "constraint_eb1165b7-d834-4a92-9c07-0eb293a5c629",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 817
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_07e135cc-b918-434a-8f55-b15fb89d2db2",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

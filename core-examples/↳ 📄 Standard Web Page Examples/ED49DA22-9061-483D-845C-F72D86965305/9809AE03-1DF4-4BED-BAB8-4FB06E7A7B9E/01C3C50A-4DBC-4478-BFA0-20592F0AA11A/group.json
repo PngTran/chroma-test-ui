@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "01C3C50A-4DBC-4478-BFA0-20592F0AA11A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31867339-C456-4783-80C0-AF108B2B6AE0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "371E8224-E84C-45D4-92DA-A4DC297843A2",
+    "height": 49,
+    "width": 717,
+    "x": 723,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C000975E-5765-4FA2-AC29-D966C5113739"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC44CC84-4E91-412C-AB38-7836E663F042"
+    },
+    {
+      "class": "group",
+      "id": "479DC59D-5D40-4AEA-B59C-0E0649615092"
+    }
+  ],
+  "name": "Breadcrumb",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1F4D11D-DF9B-4E11-BC40-488EF13F00C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

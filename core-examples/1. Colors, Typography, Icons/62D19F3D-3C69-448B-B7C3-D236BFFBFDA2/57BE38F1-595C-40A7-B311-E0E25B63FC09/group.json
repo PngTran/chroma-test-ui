@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "57BE38F1-595C-40A7-B311-E0E25B63FC09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2C9A96E5-1EA2-4BC8-873E-53B340F434BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8F8F5A8-31E7-45C3-A0C4-DD279935A1E6",
+    "height": 375,
+    "width": 1074,
+    "x": 184,
+    "y": 544
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4F117784-4633-4A65-9972-6C447C559FBD"
+    },
+    {
+      "class": "group",
+      "id": "8FCC72A7-09AF-4013-956D-E60C70E551A7"
+    }
+  ],
+  "name": "Interface icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2BEAF8CC-3E45-4A76-853E-B6E7273977D1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

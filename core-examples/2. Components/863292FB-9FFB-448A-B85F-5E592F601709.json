@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Patterns"
+    "string": "PATTERNS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "D2CD13D0-7546-47FA-BF6D-314199497B9A",
     "height": 85,
-    "width": 276,
-    "x": 5519,
-    "y": -4380
+    "width": 356,
+    "x": 1621,
+    "y": -502
   },
-  "glyphBounds": "{{4, 15}, {270, 53}}",
+  "glyphBounds": "{{4, 15}, {350, 53}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

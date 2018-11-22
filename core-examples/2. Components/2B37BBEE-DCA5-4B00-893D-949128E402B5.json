@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Components"
+    "string": "COMPONENTS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "958ECF09-3CDF-497E-9942-BCE15D2480DF",
     "height": 85,
-    "width": 413,
-    "x": 3414,
-    "y": -4380
+    "width": 486,
+    "x": 1621,
+    "y": -4323
   },
-  "glyphBounds": "{{3, 15}, {407, 67}}",
+  "glyphBounds": "{{3, 15}, {480, 53}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,6 +69,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7A0E338F-0B26-4251-A4BE-7391BF8505F2",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -78,7 +79,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E15FBCE6-471C-4042-9DFA-3F91A1825B78",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

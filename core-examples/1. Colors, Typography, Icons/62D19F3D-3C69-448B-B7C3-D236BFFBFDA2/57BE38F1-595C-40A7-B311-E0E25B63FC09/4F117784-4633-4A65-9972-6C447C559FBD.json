@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F117784-4633-4A65-9972-6C447C559FBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC7D3396-A652-4284-BA38-F46BAC756724",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB82CC3B-AC86-4694-8976-0941E7D2629C",
+    "height": 160,
+    "width": 185,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Section blurb",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "588E0A94-B757-4F61-90E6-185A85A869F3",
+      "overrideName": "7F42A202-E95D-4603-83A4-9114C9289783_stringValue",
+      "value": "Interface font"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26EB6462-7E5B-4679-A20A-C47062915FE9",
+      "overrideName": "69C42161-CCAF-4311-AC8A-BD7E29F0FEDE_stringValue",
+      "value": "These are semantic icons to indicate actions users can take in an interface. These icons should never be displayed greater than 200% of base size (max 32px)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7877CA74-6165-4603-8B8E-624D1518A081",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "15B6E5AA-6CF3-4A71-B0C6-3A538B5E9FBE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

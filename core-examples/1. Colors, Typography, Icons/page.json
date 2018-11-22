@@ -38,19 +38,27 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "620EE8E8-F755-4563-B83B-85D11798AE35"
-    },
-    {
-      "class": "artboard",
-      "id": "8A052218-B0C9-4C8A-8B3A-E868B29230EF"
-    },
-    {
-      "class": "artboard",
-      "id": "720B35E6-2CDB-4A65-BFF4-9ED2E423EB94"
-    },
-    {
-      "class": "artboard",
       "id": "8EB4D893-52B0-4CD6-935E-D19E5857D847"
+    },
+    {
+      "class": "artboard",
+      "id": "25AF9BB8-32FE-49CA-9C81-B800DBD2D9AA"
+    },
+    {
+      "class": "artboard",
+      "id": "714AA8BF-622B-4EFA-AEF5-06835F3EFA1E"
+    },
+    {
+      "class": "artboard",
+      "id": "62D19F3D-3C69-448B-B7C3-D236BFFBFDA2"
+    },
+    {
+      "class": "bitmap",
+      "id": "9A9A3ED2-D87D-4C8E-B4B4-08D439985C17"
+    },
+    {
+      "class": "bitmap",
+      "id": "5636E6F4-5571-4896-982C-68E88F6A4F2D"
     }
   ],
   "layout": {
@@ -80,6 +88,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

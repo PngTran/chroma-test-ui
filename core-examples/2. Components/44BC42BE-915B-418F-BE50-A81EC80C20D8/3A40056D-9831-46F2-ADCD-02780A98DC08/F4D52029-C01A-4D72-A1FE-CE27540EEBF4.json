@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F4D52029-C01A-4D72-A1FE-CE27540EEBF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E2A302B-D644-4F9B-9766-921287F2CEC0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DFDF8471-F0E5-46C5-A60F-5F140DA62431",
+    "height": 50,
+    "width": 335,
+    "x": 0,
+    "y": 50
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Lists/Detail/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5E33C2AC-9BE1-4378-BCC9-9EE73B5E8DC2/04802CB6-E19D-4DD1-81C5-9A1BB089AAAF_stringValue",
+      "value": "2009 Volkswagen Golf"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5E33C2AC-9BE1-4378-BCC9-9EE73B5E8DC2/68CF60E8-27F7-4D2D-B7CB-47FFE534DE08_stringValue",
+      "value": "Vehicle\n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6332DB3-0DE6-4CFD-B5D5-EC05B85FFFE4",
+      "overrideName": "4D15C026-A365-42BE-ACB3-DEE5C2037DBD_symbolID",
+      "value": "26CD75AB-C839-44F7-A853-072F347DA593"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1ACBF0A2-155C-45F7-BDAD-A6BB0F268D6F",
+      "overrideName": "D9B110FF-3431-45A5-9B7B-8C3A72496BB9_stringValue",
+      "value": "MOT1234567"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5000A8EA-9A72-4CED-BAE1-FB52AA4FEE6A",
+      "overrideName": "01ADC331-A0AF-48C8-99B9-2345D9D9B2F2_stringValue",
+      "value": "Policy number"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8AC11F7-9040-4B7E-9B96-71F2B82FCDD4",
+      "overrideName": "E83A585A-EF7B-4BF9-95DF-E2281CB5F302_symbolID",
+      "value": "40A3A049-20A4-4840-AE2D-AD227E32E65F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C5A0F8B2-BA66-43F2-9209-3EB8463F6FF1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "293A07D6-4B74-4F8F-9B1A-105BC6588DA4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

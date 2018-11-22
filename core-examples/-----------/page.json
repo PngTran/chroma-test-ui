@@ -91,6 +91,50 @@
     {
       "class": "text",
       "id": "554AE98F-91E7-4B9C-A8DC-A5660FA1C1F0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0D45A2E4-E5C3-42D0-AA13-A3C40E43DF3D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6541ABF6-0A46-4B21-8731-DAF6BDBA1231"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BB960CD8-B83F-4D6F-A50C-252AD67532FE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B7500128-D720-41FA-9026-E5C470C979DA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BF3FFCFE-0AED-412D-A846-3DF9F3EB456E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2DCA0EF2-4448-422D-B9EC-9AA6FD279ED9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A0C8C406-0B58-461B-BD92-C91F846CE527"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8A9B1805-3081-471A-9CBE-4072D31E071F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A59063E4-DEDA-4E11-BD0B-76A0D0A4C45F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2983253D-9C2B-4946-883F-F5F5EC330BA2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "30D5A7AF-5624-4430-B635-2CF4631C83FB"
     }
   ],
   "name": "-----------",
@@ -109,6 +153,9 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "com.animaapp.uses.anima": 1
+    },
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
     }
   },
   "verticalRulerData": {

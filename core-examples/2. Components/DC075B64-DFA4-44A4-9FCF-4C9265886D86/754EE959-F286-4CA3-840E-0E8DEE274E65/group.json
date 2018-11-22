@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "754EE959-F286-4CA3-840E-0E8DEE274E65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8DE6B9BE-A0F8-40C7-934B-B2057FDB7F8C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7875BE47-420E-4DBD-94E0-9C67042A0061",
+    "height": 400,
+    "width": 612,
+    "x": 184,
+    "y": 1342
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3F467885-3F99-434D-A57B-4222D073530A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7072A1A-CA27-426B-9795-545D03EB5254"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8620CFBA-C4D5-41D5-8E3B-F594375ECAB0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DAB2771C-1F80-41B7-A17A-19899FEB6552"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A88CDADC-CCD9-443B-BF19-1EC678D7F9C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F4991E1-0E80-4A73-8819-4F0BD7640AEA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "41AA94B1-D7CB-49C4-B08A-81890340679C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3250282E-1C27-42D2-8D92-19C156EA071B"
+    }
+  ],
+  "name": "Glass [0v left]",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "076A94F6-F549-4DBA-B0D2-A98B5BAF3E3C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 0,
+        "type": 0
+      }
+    }
+  }
+}

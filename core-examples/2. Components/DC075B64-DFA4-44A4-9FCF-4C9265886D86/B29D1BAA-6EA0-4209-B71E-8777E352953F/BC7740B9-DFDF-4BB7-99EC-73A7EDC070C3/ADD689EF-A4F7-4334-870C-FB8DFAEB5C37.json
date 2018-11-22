@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "ADD689EF-A4F7-4334-870C-FB8DFAEB5C37",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60F80A15-C0DD-47A3-A04D-622893F720D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0FAB2641-B7A0-4700-BC8C-AC88C8721398",
+    "height": 94,
+    "width": 196.7131782945735,
+    "x": 211.8449612403102,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Radio/block-icon/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC376D81-32A2-4C2C-84D6-2811C20EEEE1",
+      "overrideName": "4D7B6DAB-CACC-4F8B-9982-22E9D5661C71_stringValue",
+      "value": "Accident damage"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A183F562-CDDE-40BA-AA51-FA2219422278",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9D91EEB6-0107-4874-B4A6-F88912DEDFDC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

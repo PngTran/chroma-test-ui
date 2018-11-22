@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0DAFE06-AFC9-4EC1-9870-D347DEF0F44D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AAD747F2-7116-4CD8-8BBC-FD5E5BF40A62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F240A4E4-62EC-4271-9A64-C484EF141F1A",
+    "height": 224,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Slide header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "115D9FCB-A993-4462-973F-C1421209E36D",
+      "overrideName": "54E7C039-B6A9-4CB5-B38B-E8CBF896C852_stringValue",
+      "value": "Iconography"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB69D2AE-0464-4B18-86FB-25F7BD602495",
+      "overrideName": "86CAAF18-0D19-49B3-A5C7-E871542B41B7_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3977CBA-B210-4791-89F7-72198B6EFD46",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F99F31C1-2BC8-48DF-8BAD-238F41215B95",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

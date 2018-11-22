@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F9DEB9F0-DA21-48BA-8F1C-6909C5210E53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA032918-8051-4446-B44D-3E1B9BCDBE01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "48510CFB-C464-4933-87BF-44D563FBBFCB",
+    "height": 274,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C79E62B4-5B11-4995-BE1D-C47419B1DAE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F557E10B-C7A9-4B3C-BD27-3BF55EB42E62"
+    }
+  ],
+  "name": "Drag image in here",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02520D29-7BEF-41AB-8D2F-5F3AEECC9DBA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

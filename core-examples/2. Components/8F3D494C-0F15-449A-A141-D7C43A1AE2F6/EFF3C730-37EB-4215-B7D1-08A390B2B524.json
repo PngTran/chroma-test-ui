@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EFF3C730-37EB-4215-B7D1-08A390B2B524",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D76AF2B5-A94F-43AD-9B23-24195241C0A4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "12B48E8D-D92C-44CE-ADE8-B8C70575FBAF",
+    "height": 256,
+    "width": 334,
+    "x": 921,
+    "y": 248
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card/Background",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB8F262F-F564-442A-A875-BDFA2C3F252A",
+      "overrideName": "60DBDD3D-D870-4F49-B53A-45B7B85ED742/E33AA0C5-E907-4D79-8E1D-30132E1950FA_symbolID",
+      "value": "1C27B0A4-E985-440D-9FC6-E6099EF9C84A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C24F9E49-74BA-4AA7-98FC-29C796472CEE",
+      "overrideName": "FEABA710-708C-4099-82EB-49BC085C5692_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "92132001-56A6-4A23-909C-FB82FBB82F87",
+      "overrideName": "60DBDD3D-D870-4F49-B53A-45B7B85ED742/B3A80442-82DF-4D51-BCAA-7AB14DB3DF19/E33AA0C5-E907-4D79-8E1D-30132E1950FA_symbolID",
+      "value": "9E53FF1F-9609-4700-97C5-A8ED8F9EA2FA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9420B622-E33C-4311-B5D3-6E116AFDBDB4",
+      "overrideName": "1C52B02A-8ACF-4EB2-A673-DBCA33355BC5/60DBDD3D-D870-4F49-B53A-45B7B85ED742/278F386D-7859-4894-9AEF-EC3A908A0287_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA7F6A7E-C082-48FC-9A1D-51C9385001A3",
+      "overrideName": "1C52B02A-8ACF-4EB2-A673-DBCA33355BC5/F27C00DC-E98F-4AE4-AAD6-95E50864CC4B_stringValue",
+      "value": "Card with background"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3A4CF44-B001-4593-8A2D-CBBB07B99382",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E02F18D2-B037-4A28-B9D3-238FA28A3872",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE42B5DF-38A1-4B25-808B-B7C6D3A15FC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B23BCE8B-8674-4E6F-8B52-CD9B58767BED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1534868F-E5FD-41FC-B35E-614C17A38CD1",
+    "height": 48,
+    "width": 140,
+    "x": 0,
+    "y": 224
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form group/.input-group/button/suffix",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D05D27D-7B70-4022-866F-E014032FB4F6",
+      "overrideName": "4C4DE6F3-090C-485A-A1EE-9AD1C03965D3/127B1806-5D30-46F8-880C-1548F6AA664A_stringValue",
+      "value": "Suffix button"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C85B2AEF-EDC4-41AF-986E-863FA4A3401A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FB4A99AD-D7A3-48BC-AAB9-1C4846961D3D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

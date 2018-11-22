@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "811C572C-9A6E-49DB-B41E-93F7DC718C15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C22CCB25-DC9E-4CAF-B234-8590054F2C9D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D2696FCB-CE0A-4519-B342-22D9736AF868",
+    "height": 150,
+    "width": 334,
+    "x": 553,
+    "y": 248
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A13CF9BE-F981-4C22-BB8E-C33968288770"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC0CCF44-108A-4B76-B3E6-82C34BE7CAE8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3A92C13-C2CE-486F-B3CE-906AA1E9358F"
+    }
+  ],
+  "name": ".p-accordion__icon [0v l]",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5DFF576C-B5A3-4C0F-974B-92E490C9C043",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

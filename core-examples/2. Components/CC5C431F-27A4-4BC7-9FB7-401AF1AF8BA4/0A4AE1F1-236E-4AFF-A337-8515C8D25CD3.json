@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0A4AE1F1-236E-4AFF-A337-8515C8D25CD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB9A130E-D773-439E-A056-7A5EA1AB8343",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56229A95-8054-4060-9BB9-B9F03254A729",
+    "height": 68,
+    "width": 334,
+    "x": 351,
+    "y": 448
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contextual-help/z.assets/list-item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7736E154-59B9-435E-9BC4-F70898C055B2",
+      "overrideName": "D227CE0F-F576-4173-B882-4D60464168DC_stringValue",
+      "value": "A very long text link that wraps to the next line"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C994FDC-0DFA-42DE-9469-A041D52EE097",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4B11F821-3D02-47D3-BC0F-95891401BE52",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
